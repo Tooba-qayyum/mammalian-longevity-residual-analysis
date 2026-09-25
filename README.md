@@ -48,7 +48,7 @@ The dataset for this project has been obtained from The Animal Ageing and Longev
 
 3. **Building the Pipeline :**
 
-    Pipeline was built to scale and fit the data to the Huber Regressor model.
+    Pipeline built to scale and fit the Huber Regressor to the data.
 
 4. **Residual Calculation and Model Evaluation:**
 
@@ -58,7 +58,9 @@ The dataset for this project has been obtained from The Animal Ageing and Longev
 
  1. **Data cleaning:**
 
-    Datasets filtered to non- null entries of Metabolic rate, as it is  presumed to be an important predictor of lifespan, according to the Rate of Living theory. With only 342 non-null values, imputation would mean heavy distortion of the data. Other columns with extensive nulls were removed as well.
+    Dataset was filtered to non- null entries of Metabolic rate, as it is  presumed to be an important predictor of lifespan, according to the Rate of Living theory. With only 342 non-null values, imputation would mean heavy distortion of the data. Other columns with extensive nulls were removed as well.
+
+    *Cleaned train and test datasets contained 283 and 59 entries, respectively.*
 
  2. **Feature Engineering:**
 
@@ -66,21 +68,85 @@ The dataset for this project has been obtained from The Animal Ageing and Longev
 
 3. **Imputation :**
 
-   Remaining null values were imputed in a sequential manner with a custom 'Taxonomical Imputer'. It calculated the median feature value for each genus, family and order of the dataset as well as an overall feature median. Each null was imputed with its corresponding genus' median wherever available, falling back to family then order then overall feature median, until no nulls were left.  
-   This method was used in an attempt to impute null values with the most biologically related data that was available.
+   Remaining null values were imputed in a sequential manner with a custom 'Taxonomical Imputer'. It calculated the median feature value for each genus, family and order of the dataset as well as an overall feature median.
+  
+   Each null value was imputed with its corresponding genus' median wherever available, falling back to family then order then overall feature median, until no nulls were left.
 
-4. 
+   This method was used in order to impute null values with the most biologically related data available in the dataset.
 
+4. **Building a Pipeline :**
 
+    Pipeline built to impute missing values then fit the Random Forest Regressor to the data.
 
+5. **Grid Search CV :**
 
-## 5. Analysis and metrics
+    Performed GridSearch CV to tune the model to the best parameters.
+
+6. **Model Evaluation and Feature Analysis :**
+
+    Analysed final model 2 metrics and permutation importance results.
+
+### Combined Two - Stage Model:
+ 
+- This step has been performed at the end of the project in order to evaluate the performance of both models together, on the same subset.
+
+- Using the formula, 
+
+```
+residual = true value - predicted value
+
+```
+True values were compared to the sum of the model 1 predictions and model 2 residuals.
+
+## 5. Analysis and Metrics :
+
+| Metric | Description |
+| --- | --- |
+| R² score | Measures the proportion of variance in the target variable, explained by the model |
+| Mean Absolute Error (MAE) | Measures the average magnitude of errors |
+---
+
+* Since log-transformed values have been used, MAE obtained throughout the project is in log units. For easier interpretability, an error factor has also been calculated.
+
+```
+Error factor = 10^MAE
+
+An error factor of 1.2 would mean predictions typically lie within a factor of 1.2 of true values.
+
+```
+
+* Permutation feature importance was also analysed at the end of model 2. This measures how important a feature was for the Random Forest Regressor to make its predictions. In Model 2, a higher mean importance value indicates a higher R² score drop, when that feature was shuffled.
 
 
 ---
 
-
 ## 6. Key Findings
+
+### Model 1 :
+  
+- Test set R² score: 0.565
+- Test set MAE: 0.183
+- Error factor: 1.52
+
+This suggests that Adult weight of mammals explains around 57% of variation found in their Maximum longevity. Model 2 investigates how much of the remaining variance can be explained by a set of 10 biological traits.
+
+Furthermore, the regression line obtained by the model, obtained a similar equation to the mammalian allometric equation used by HAGR for the AnAge database.  
+
+```
+Model 1 regression line :
+
+log₁₀(longevity) = 0.661 + 0.159 × log₁₀(adult weight)
+
+HAGR mammalian allometric equation:
+
+tmax = 4.88 * M^0.153
+i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
+
+```
+
+### Model 2:
+ 
+ - 
 
 
 ---
