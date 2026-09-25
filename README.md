@@ -18,6 +18,10 @@ The allometric  equation, Y = aMᵇ is often used to describe the relationship b
 
 ## 2. Data
 
+The dataset for this project has been obtained from The Animal Ageing and Longevity Database, maintained by HAGR. More information about this dataset can be found here: https://genomics.senescence.info/help.html#anage
+
+* No. of Entries in Dataset = 4645
+* No. of Columns = 31
 
 ---
 
@@ -29,7 +33,22 @@ The allometric  equation, Y = aMᵇ is often used to describe the relationship b
 
 ## 4. Workflow
 
+>### Model 1:
 
+1. Data Cleaning:
+     Filtered dataset by non-null entries of Adult weight and Maximum longevity, under Class Mammalia. 
+    
+      Removed entries with questionable Data quality as well.
+
+    *Final cleaned dataset contained 996 entries*
+
+2. Splitting and Log - Transformation:
+    Data was Train-Test split,stratified by 'Order'. Train and test data was then log- transformed to obtain the linear relationship between X and y required to build the model.
+
+3. Building the Pipeline :
+    Pipeline was built to scale and fit the data to the Huber Regressor model.
+
+       
 ---
 
 
