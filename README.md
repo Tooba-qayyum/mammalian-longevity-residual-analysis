@@ -1,6 +1,11 @@
 # Mammalian Longevity - Allometric scaling and Residual analysis.
 *Using allometric scaling to predict maximum longevity of mammalian species, then analysing their residuals in order to ascertain biological traits that contribute to unexpected lifespans.*
 
+![Residuals plot from Model 1 test set, highlighting 4 orders with unexpected lifespans](figures/model1_residual_plot.png)
+
+*This plot highlights 4 key Orders that form the basis of this project. Points lying above the dashed line represent organisms with lifespans that are longer than what their size predicts, and those that fall below the line have a shorter than predicted lifespan.*
+
+
 ---
 
 ## Table of Contents
@@ -46,7 +51,45 @@ The dataset for this project has been obtained from The Animal Ageing and Longev
 
 ```
 mammalian-longevity-residual-analysis/
-| data/
+├── data/
+|  ├── interim/                         # interim csv files to move      
+|  |   |                                      across notebooks.
+|  |   ├── model2_test_predictions.csv      
+|  |   ├── test_residuals.csv
+|  |   └── train_residuals.csv
+|  |
+|  ├── processed/
+|  |    ├── test.csv                     # model 1 test set
+|  |    ├── test2.csv                    # model 2 test set
+|  |    ├── train.csv                    # model 1 train set
+|  |    └── train2.csv                   # model 2 train set
+|  |
+|  └── raw/
+|       └── anage_data.txt
+|
+├── figures/
+|  ├── huber_regressor.png
+|  ├── model1_residual_plot.png
+|  ├── model2_predictions_scatter_plt.png
+|  ├── permutation_importance.png
+|  └── two_stage_model_predictions_plt.png
+|
+|
+├── models/
+|  ├── grid_results.pkl                   # model 2 gridsearch
+|  ├── model1_pipe.pkl                    # model 1 pipeline
+|  └── model2_pipe.pkl                    # model 2 pipeline
+|
+|
+├── notebooks/
+|  ├── 01-data-preparation.ipynb
+|  ├── 02-model1-allometric-scaling.ipynb
+|  └── 03-model2-residual-prediction.ipynb
+|  └── 04-two-stage-model.ipynb
+|
+├── .gitignore
+├── LICENSE
+└── README.md
 
 ```
 ---
@@ -67,6 +110,15 @@ mammalian-longevity-residual-analysis/
 
     Data was Train-Test split, stratified by 'Order'. Train and test data was then log- transformed to obtain the linear relationship between X and y required to build the model.
 
+    | Feature (X) |
+    | --- |
+    | Adult weight (g) |
+
+    | Target (y) |
+    | --- |
+    | Maximum longevity (yrs) |
+
+
 3. **Building the Pipeline :**
 
     Pipeline built to scale and fit the Huber Regressor to the data.
@@ -86,6 +138,24 @@ mammalian-longevity-residual-analysis/
  2. **Feature Engineering:**
 
     Mass-specific BMR for each entry was calculated by dividing Metabolic rate by Body mass. This was done to reduce the effect of Body mass on Metabolic rate, in order to get a better evaluation of the true relation between Metabolic rate and longevity.
+
+    | Features (X2) |
+    | --- |
+    | Weaning (days) |
+    | mass_specific_BMR |
+    | Male maturity (days) |
+    | Inter-litter/Interbirth interval |
+    | Litters/Clutches per year	|
+    | Temperature (K) |
+    | Litter/Clutch size |
+    | Female maturity (days) |
+    | Birth weight (g) |
+    | Gestation/Incubation (days) |
+
+    | Target (y2) |
+    | --- |
+    | residual |
+    
 
 3. **Imputation :**
 
@@ -164,6 +234,10 @@ tmax = 4.88 * M^0.153
 i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
 
 ```
+![Model1 regression line](figures/huber_regressor.png)
+
+*Model 1 (Huber Regressor) Regression line*
+
 
 ### Model 2:
  
@@ -171,9 +245,13 @@ i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
  - Test set MAE: 0.128
  - Error factor : 1.34 
 
-   This indicates that for the subset of model 1 that was tested, model 2 was able to account for nearly 45% of the remaining variation in Maximum longevity. 
+   This indicates that for the subset of model 1 that was tested, model 2 was able to account for nearly 45% of the remaining variation in Maximum longevity.
+
+   ![Model 2 actual vs predicted residuals scatter plot](figures/model2_predictions_scatter_plt.png) 
 
  * Permutation importance results identified Gestation length with a mean importance score of 0.15 ± 0.08, and Birth weight with a score of 0.08 ± 0.02, to be the features with the largest mean reductions in test set R², when shuffled. Other features' mean importance values are indistinguishable from 0.
+
+ ![Permutation importance results](figures/permutation_importance.png)
 
  * Gestation length and Birth weight are traits related to parental investment. This suggests that parental - investment related traits may be relevant to predicting maximum longevity of mammals in this dataset. Though, due to the limited scope of this subset, this finding should not be generalised.
 
@@ -184,7 +262,8 @@ i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
  - Error factor : 1.34
 
    The Two-stage model predictions were able to account for 73% of variation in Maximum longevity values of the 59 mammalian species test set. This indicates reasonably strong predictive performance.
-
+   
+![Two-stage model predicted vs actual longevity - scatter plot](figures/two_stage_model_predictions_plt.png)
 
 ---
 
