@@ -1,0 +1,797 @@
+,HAGRID,Kingdom,Phylum,Class,Order,Family,Genus,Species,Common name,Female maturity (days),Male maturity (days),Gestation/Incubation (days),Weaning (days),Litter/Clutch size,Litters/Clutches per year,Inter-litter/Interbirth interval,Birth weight (g),Weaning weight (g),Adult weight (g),Growth rate (1/days),Maximum longevity (yrs),Specimen origin,Sample size,Data quality,Metabolic rate (W),Body mass (g),Temperature (K)
+2629,2647,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,unicornis,Indian rhinoceros,1678.0,2557.0,479.0,456.0,1.0,0.3,850.0,58000.0,885812.0,1602330.0,,43.5,captivity,medium,acceptable,,,310.55
+2612,2630,Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Isoodon,obesulus,Southern brown bandicoot,210.0,,15.0,62.0,2.73,2.2,140.0,0.35,125.0,700.0,0.0135,6.5,captivity,small,acceptable,1.238,717.0,307.05
+2699,2719,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,cephus,Moustached monkey,1460.0,,172.0,365.0,1.0,0.4,821.0,340.0,,3585.0,,36.0,captivity,small,acceptable,,,
+2098,2113,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,nigripes,Black-footed cat,445.0,434.0,66.0,,2.0,4.0,228.0,72.4,,2125.0,,15.6,captivity,medium,acceptable,,,
+2963,2983,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Glis,glis,Fat dormouse,322.0,335.0,25.0,33.0,4.0,1.2,,1.5,,125.0,,8.7,captivity,small,acceptable,0.664,174.4,310.85
+2394,2412,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,velifer,Cave myotis,365.0,365.0,65.0,43.0,1.0,1.0,365.0,3.2,,10.1,0.13,11.3,wild,medium,acceptable,0.04,11.9,
+2467,2485,Animalia,Chordata,Mammalia,Dasyuromorphia,Myrmecobiidae,Myrmecobius,fasciatus,Numbat,350.0,731.0,14.0,243.0,4.0,,365.0,,,471.5,,11.0,captivity,small,acceptable,0.907,438.2,305.65
+3127,3147,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Petaurista,alborufus,Red and white giant flying squirrel,,,,,,,,,,1700.0,,21.4,captivity,small,acceptable,,,
+2662,2681,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Callimico,goeldii,Goeldi's monkey,365.0,395.0,153.0,77.0,1.0,1.2,179.0,48.15,215.0,555.0,0.0097,22.2,captivity,large,high,,,309.15
+2899,2919,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,truei,Pinyon mouse,50.0,,26.0,30.0,3.4,5.0,40.0,2.315,10.5,25.0,0.0481,5.4,captivity,small,acceptable,0.307,33.1,309.85
+2558,2576,Animalia,Chordata,Mammalia,Diprotodontia,Vombatidae,Lasiorhinus,krefftii,Northern hairy-nosed wombat,589.0,547.0,21.0,365.0,1.0,1.0,548.0,,,31000.0,,30.0,captivity,small,acceptable,,,
+2465,2483,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,virginiae,Red-cheeked dunnart,230.0,,15.0,80.0,2.5,,91.0,,19.0,34.0,,5.3,captivity,tiny,acceptable,,,
+3076,3096,Animalia,Chordata,Mammalia,Rodentia,Muridae,Zyzomys,pedunculatus,Central rock rat,,,,,,,,,,100.0,,7.5,captivity,small,acceptable,,,
+3173,3193,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Xerus,inauris,South African ground squirrel,365.0,365.0,45.0,50.0,2.2,1.0,,20.0,,588.0,,11.5,captivity,small,acceptable,1.775,528.5,309.95
+1910,1924,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,sibirica,Siberian ibex,797.0,1541.0,175.0,,,,,3640.0,,130000.0,,22.3,captivity,medium,acceptable,,,
+2427,2445,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Tolypeutes,matacus,Southern three-banded armadillo,320.0,320.0,120.0,55.0,1.0,1.0,,80.0,,1500.0,0.0362,36.8,captivity,small,acceptable,1.172,1160.0,306.15
+3065,3085,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rhabdomys,pumilio,Four-striped grass mouse,42.0,64.0,25.0,14.0,6.0,4.0,29.0,2.67,8.4,51.0,0.0361,4.5,captivity,medium,acceptable,0.179,39.6,310.15
+2645,2664,Animalia,Chordata,Mammalia,Primates,Aotidae,Aotus,lemurinus,Lemurine night monkey,755.0,,135.0,76.0,1.0,1.0,365.0,98.0,,874.0,,33.8,captivity,medium,acceptable,,,
+2895,2915,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,guatemalensis,Guatemalan deer mouse,50.0,63.0,31.0,,1.9,,,,,40.0,,5.7,captivity,small,acceptable,,,
+2622,2640,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,kiang,Kiang,1001.0,1187.0,299.0,,,0.5,,,,275000.0,,30.1,captivity,medium,acceptable,,,
+2556,2574,Animalia,Chordata,Mammalia,Diprotodontia,Pseudocheiridae,Pseudocheirus,peregrinus,"Common ringtail, or Ring-tailed possum",365.0,365.0,,180.0,2.0,1.5,200.0,0.3,400.0,850.0,,10.1,captivity,medium,acceptable,2.27,859.3,310.55
+1922,1936,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Connochaetes,gnou,Black wildebeest,763.0,1096.0,259.0,228.0,1.0,,,11000.0,,132250.0,,21.8,captivity,medium,acceptable,,,
+2932,2952,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Allactaga,elater,Small five-toed jerboa,142.0,142.0,,33.0,4.5,2.0,,,,58.7,,5.2,captivity,small,acceptable,,,
+2125,2140,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Atilax,paludinosus,Marsh mongoose,235.0,255.0,76.0,36.0,2.0,2.0,182.0,100.0,550.0,3300.0,,20.8,captivity,small,acceptable,,,
+2818,2838,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,maximus,Asiatic elephant,3287.0,3287.0,644.0,,1.0,0.2,1141.0,107000.0,,3178000.0,,79.6,captivity,large,acceptable,2336.5,3672000.0,308.95
+2239,2254,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,thibetanus,Asiatic black bear,1095.0,1095.0,228.0,99.0,2.0,,365.0,463.0,,103750.0,,39.2,captivity,medium,acceptable,,,310.65
+2499,2517,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Dendrolagus,matschiei,Matschie's tree kangaroo,845.0,,32.0,500.0,1.0,,410.0,,,7200.0,,26.9,captivity,medium,acceptable,7.96,6960.0,309.45
+2272,2289,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Globicephala,melas,Long-finned pilot whale,2470.0,4380.0,450.0,812.0,1.0,0.2,,109667.0,,1060000.0,,60.0,captivity,tiny,acceptable,,,
+2937,2957,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Jaculus,orientalis,Greater Egyptian jerboa,,,35.0,,2.5,,,,,134.0,,5.5,captivity,small,acceptable,0.775,139.0,310.15
+2694,2714,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercocebus,agilis,Agile mangabey,1536.0,,170.0,,,,,,,8000.0,,31.0,captivity,tiny,acceptable,,,
+2982,3002,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Perognathus,longimembris,Little pocket mouse,151.0,,22.0,28.0,5.0,1.25,,0.9,4.0,8.0,0.0766,8.3,captivity,small,acceptable,0.061,8.5,307.85
+1946,1960,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Madoqua,guentheri,Gunther's dik-dik,139.0,,178.0,84.0,1.0,2.0,,681.67,2825.5,4550.0,,17.5,captivity,small,acceptable,,,310.95
+1903,1917,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,caucasica,West Caucasian tur,890.0,1085.0,157.0,,1.0,,,3850.0,,70000.0,,19.3,captivity,medium,acceptable,,,
+2710,2730,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Chlorocebus,aethiops,"Grivet, or Vervet",1034.0,1825.0,162.0,182.0,1.0,1.0,357.0,314.0,1036.0,5620.0,,32.0,captivity,medium,acceptable,,,309.95
+2117,2132,Animalia,Chordata,Mammalia,Carnivora,Felidae,Prionailurus,bengalensis,Leopard cat,365.0,,62.0,45.0,2.5,,163.0,96.0,620.0,5000.0,,17.0,captivity,medium,acceptable,,,
+2664,2683,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Callithrix,jacchus,White-tufted-ear marmoset,477.0,382.0,144.0,62.0,2.0,2.0,169.0,26.5,86.67,255.2,0.0172,22.8,captivity,large,high,0.848,190.0,309.15
+2532,2550,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Wallabia,bicolor,Swamp wallaby,426.0,426.0,36.0,256.0,1.0,1.4,243.0,0.61,,14625.0,0.0068,16.8,captivity,medium,acceptable,,,
+2535,2553,Animalia,Chordata,Mammalia,Diprotodontia,Petauridae,Petaurus,australis,Yellow-bellied glider,725.0,,,152.0,1.0,1.0,364.0,,285.0,572.5,,15.0,captivity,small,acceptable,,,
+2358,2376,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Rousettus,leschenaultii,Leschenault's rousette,150.0,455.0,115.0,,1.0,2.0,,12.0,,108.25,,14.0,captivity,medium,acceptable,,,
+2885,2905,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Neotoma,lepida,Desert woodrat,76.0,76.0,33.0,31.0,3.0,3.0,60.0,8.45,35.0,236.0,,10.5,captivity,small,acceptable,0.46,112.5,309.95
+2698,2718,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,campbelli,Campbell's monkey,1095.0,,180.0,365.0,1.0,,,,,3600.0,,30.0,captivity,small,acceptable,,,
+2848,2868,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Lagostomus,maximus,Plains viscacha,258.0,456.0,154.0,54.0,2.0,1.8,,200.0,652.2,6000.0,,10.8,captivity,medium,acceptable,10.623,6794.0,309.95
+2385,2403,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,leibii,Eastern small-footed myotis,,,,,1.0,1.0,365.0,,,5.6,,12.0,wild,medium,acceptable,,,
+3170,3190,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Xerospermophilus,mohavensis,Mohave ground squirrel,,,24.0,36.0,6.0,,,4.5,30.0,150.0,,7.8,captivity,small,acceptable,0.629,240.0,310.15
+3194,3214,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura,leucodon,Bicolored shrew,95.0,95.0,30.0,22.0,5.0,,,0.933,,11.0,0.1,2.9,captivity,small,acceptable,0.166,11.7,308.15
+2048,2063,Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Pecari,tajacu,Collared peccary,329.0,358.0,145.0,49.0,2.0,2.0,155.0,700.0,4881.0,20200.0,,31.5,captivity,large,high,33.165,20500.0,310.65
+2299,2316,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Neophocaena,phocaenoides,Finless porpoise,2190.0,1460.0,320.0,320.0,1.0,0.5,730.0,7000.0,24500.0,32500.0,,33.0,captivity,small,acceptable,,,
+2089,2104,Animalia,Chordata,Mammalia,Carnivora,Eupleridae,Galidia,elegans,Ring-tailed mongoose,737.0,,72.0,60.0,1.0,1.0,365.0,50.0,183.0,800.0,0.0093,26.0,captivity,small,acceptable,,,
+2219,2234,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Phoca,vitulina,Harbor seal,1095.0,1460.0,253.0,30.0,1.0,1.0,365.0,11000.0,23945.0,115000.0,0.0013,47.6,captivity,medium,acceptable,73.29,27400.0,309.85
+2275,2292,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,acutus,Atlantic white-sided dolphin,2231.0,,316.0,548.0,1.25,0.4,,24000.0,,208000.0,,27.0,wild,medium,acceptable,,,
+3120,3140,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,flaviventris,Yellow-bellied marmot,730.0,730.0,30.0,33.0,4.0,0.9,458.0,33.8,479.0,3500.0,,21.2,captivity,tiny,acceptable,8.626,4295.0,309.65
+2395,2413,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,vivesi,Fish-eating bat,,,,,1.0,,,2.82,,25.0,,10.0,unknown,medium,acceptable,0.199,25.0,309.15
+2498,2516,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Dendrolagus,inustus,Grizzled tree kangaroo,510.0,730.0,33.0,540.0,1.0,,,,,11400.0,,23.8,captivity,tiny,acceptable,,,
+2143,2158,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Crocuta,crocuta,Spotted hyena,1095.0,639.0,110.0,265.0,2.0,1.0,449.0,1390.0,14500.0,63000.0,0.0056,41.1,captivity,medium,acceptable,,,
+2796,2816,Animalia,Chordata,Mammalia,Primates,Lemuridae,Varecia,variegata,"Black-and-white ruffed lemur, or Ruffed lemur",605.0,649.0,98.0,,1.9,1.0,365.0,107.17,,3482.3,,40.0,captivity,large,high,,,
+2610,2628,Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Isoodon,auratus,Golden bandicoot,171.0,91.0,12.0,,2.6,,,,,485.0,,6.7,captivity,tiny,acceptable,0.837,428.0,306.95
+2810,2830,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Pithecia,monachus,Monk saki,,,,,1.0,,,120.67,,1780.0,,25.0,captivity,tiny,acceptable,,,
+2639,2657,Animalia,Chordata,Mammalia,Pilosa,Megalonychidae,Choloepus,didactylus,Southern two-toed sloth,1279.0,1644.0,279.0,152.0,1.0,1.0,616.0,356.0,,6250.0,0.002,36.8,captivity,medium,acceptable,,,
+1929,1943,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,cuvieri,Cuvier's gazelle,349.0,180.0,171.0,,1.5,,274.0,,,17500.0,,17.9,captivity,medium,acceptable,,,
+2872,2892,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,ochrogaster,Prairie vole,47.0,,23.0,20.0,3.8,4.0,26.0,3.02,16.7,40.0,0.0666,5.3,captivity,small,acceptable,0.41,48.2,311.05
+1953,1967,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Nanger,soemmerringii,Soemmerring's gazelle,640.0,,190.0,,1.0,,,,,48500.0,,15.5,captivity,medium,acceptable,,,
+2779,2799,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hylobates,pileatus,Pileated gibbon,2555.0,1825.0,228.0,,1.0,,,,,5735.0,,38.0,captivity,medium,acceptable,,,
+3002,3022,Animalia,Chordata,Mammalia,Rodentia,Muridae,Apodemus,peninsulae,Korean field mouse,51.0,52.0,26.0,,4.7,,,2.0,,32.9,,4.4,captivity,tiny,acceptable,,,
+3077,3097,Animalia,Chordata,Mammalia,Rodentia,Myocastoridae,Myocastor,coypus,Nutria,152.0,152.0,131.0,91.0,6.0,2.3,130.0,225.0,1750.0,7850.0,,19.0,captivity,large,acceptable,,,307.75
+2121,2136,Animalia,Chordata,Mammalia,Carnivora,Felidae,Profelis,aurata,African golden cat,651.0,,81.0,,2.0,,,248.33,,10650.0,,21.0,captivity,small,acceptable,,,
+1996,2010,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Vicugna,vicugna,Vicugna,730.0,730.0,340.0,213.0,1.0,0.7,548.0,5740.0,,50000.0,0.0057,31.6,captivity,medium,acceptable,,,313.05
+2657,2676,Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,geoffroyi,Central American spider monkey,1825.0,1826.0,232.0,821.0,1.0,0.3,970.0,426.0,2000.0,7267.5,,47.1,captivity,large,acceptable,,,
+2864,2884,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Lophiomys,imhausi,Crested rat,,,,40.0,1.75,,,,,755.0,,7.5,captivity,small,acceptable,,,
+2517,2535,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,rufogriseus,Red-necked wallaby,395.0,608.0,29.0,187.0,1.0,1.0,273.0,0.598,1483.3,16200.0,,15.2,captivity,large,acceptable,,,
+3154,3174,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sundasciurus,hippurus,Horse-tailed squirrel,,,,,,,,,,312.5,,14.0,captivity,small,acceptable,,,
+2073,2088,Animalia,Chordata,Mammalia,Carnivora,Canidae,Speothos,venaticus,Bush dog,304.0,365.0,68.0,101.0,4.0,2.0,249.0,160.0,,6000.0,,14.1,captivity,medium,acceptable,,,
+2018,2033,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus,reevesi,Reeves's muntjac,274.0,,199.0,,1.0,1.5,215.0,1050.0,,18000.0,,23.2,captivity,large,high,,,
+2933,2953,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Allactaga,euphratica,Euphrates jerboa,,,,,5.0,,,,,232.0,,4.2,captivity,small,acceptable,,,
+2611,2629,Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Isoodon,macrourus,Northern brown bandicoot,122.0,200.0,12.0,60.0,4.0,2.7,58.0,0.1883,100.0,1600.0,0.0145,6.8,captivity,small,acceptable,3.202,1551.0,309.05
+1981,1995,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Syncerus,caffer,African buffalo,1475.0,1674.0,331.0,289.0,1.0,0.4,635.0,44000.0,166000.0,700000.0,0.0026,32.8,captivity,medium,acceptable,,,
+2302,2319,Animalia,Chordata,Mammalia,Cetacea,Physeteridae,Physeter,macrocephalus,Sperm whale,2922.0,3650.0,502.0,560.0,1.0,0.2,1259.0,1000000.0,,28500000.0,,77.0,wild,medium,acceptable,,,
+2875,2895,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,pinetorum,Woodland vole,98.0,,21.0,21.0,3.0,2.7,26.0,2.32,9.6,25.5,0.055,3.8,captivity,small,acceptable,0.305,24.8,311.45
+2742,2762,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Semnopithecus,entellus,Hanuman langur,1162.0,1886.0,192.0,342.0,1.0,0.7,514.0,500.0,2100.0,13516.5,,29.0,captivity,medium,acceptable,,,
+2170,2185,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,martes,European pine marten,456.0,426.0,28.0,59.0,4.0,1.0,365.0,30.0,680.0,1300.0,,18.2,captivity,small,acceptable,4.0,920.0,310.15
+2122,2137,Animalia,Chordata,Mammalia,Carnivora,Felidae,Puma,concolor,Cougar,912.0,912.0,92.0,90.0,2.5,0.45,786.0,400.0,3500.0,63000.0,0.0061,27.0,captivity,large,acceptable,49.326,37200.0,310.75
+3116,3136,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ictidomys,tridecemlineatus,Thirteen-lined ground squirrel,354.0,225.0,28.0,33.0,7.0,1.2,,3.24,16.0,172.7,,7.9,captivity,small,acceptable,0.983,198.4,308.85
+2288,2305,Animalia,Chordata,Mammalia,Cetacea,Eschrichtiidae,Eschrichtius,robustus,Gray whale,2922.0,2922.0,395.0,180.0,1.0,0.5,730.0,500000.0,,28500000.0,,77.0,wild,medium,acceptable,,,
+2525,2543,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Petrogale,penicillata,Brush-tailed rock wallaby,540.0,590.0,30.0,273.0,1.0,,200.0,,735.0,6000.0,,14.3,captivity,medium,acceptable,,,
+2512,2530,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,fuliginosus,Western gray kangaroo,670.0,880.0,30.0,540.0,1.0,1.0,385.0,0.93433,11000.0,28250.0,0.0108,23.2,captivity,large,high,,,309.65
+2737,2757,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Presbytis,melalophos,"Black-crested sumatran langur, or Mitred leaf monkey",,,,,1.0,,,,,6540.0,,20.0,captivity,small,acceptable,,,
+2225,2240,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Bassariscus,astutus,Ringtail,300.0,300.0,52.0,42.0,3.0,1.0,365.0,30.0,258.7,1015.0,0.0215,19.0,captivity,medium,acceptable,,,310.75
+2349,2367,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,poliocephalus,Gray-headed flying fox,540.0,540.0,190.0,,1.0,1.0,,80.0,,675.0,,23.6,captivity,medium,acceptable,1.768,598.0,309.65
+2688,2708,Animalia,Chordata,Mammalia,Primates,Cebidae,Saimiri,sciureus,South American squirrel monkey,1003.0,1826.0,161.0,177.0,1.0,1.0,365.0,107.0,403.0,925.0,0.0125,30.2,captivity,large,high,4.429,836.7,311.15
+2613,2631,Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Perameles,bougainville,Western barred bandicoot,120.0,150.0,12.0,,1.8,,,,100.0,226.0,,5.8,captivity,small,acceptable,,,
+2544,2562,Animalia,Chordata,Mammalia,Diprotodontia,Phalangeridae,Trichosurus,vulpecula,Brush-tailed possum,315.0,730.0,17.0,204.0,1.0,1.5,274.0,0.279,740.0,2395.0,0.0206,15.9,captivity,medium,acceptable,3.8,1993.5,309.15
+1956,1970,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oreamnos,americanus,Mountain goat,912.0,912.0,184.0,122.0,1.2,1.0,365.0,3200.0,,90000.0,,20.8,captivity,small,acceptable,46.414,32000.0,
+2775,2795,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hylobates,klossii,Kloss's gibbon,,,213.0,335.0,1.0,0.4,,,,5900.0,,37.0,captivity,tiny,acceptable,,,
+3013,3033,Animalia,Chordata,Mammalia,Rodentia,Muridae,Gerbilliscus,afra,Cape gerbil,152.0,115.0,23.0,,3.9,6.5,,4.5,,74.8,,5.7,captivity,small,acceptable,1.016,106.5,307.15
+1963,1977,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,ammon,Argali,403.0,823.0,170.0,135.0,1.0,1.0,365.0,3400.0,,160000.0,,16.8,captivity,small,acceptable,,,
+2620,2638,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,grevyi,Grevy's zebra,1278.0,1461.0,406.0,259.0,1.0,0.5,575.0,40000.0,,384000.0,,31.0,captivity,large,high,,,
+2641,2659,Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,tridactyla,Giant anteater,1186.0,1186.0,184.0,56.0,1.0,1.2,,1600.0,,28500.0,0.0088,31.0,captivity,medium,acceptable,14.543,30600.0,305.65
+2325,2343,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Glossophaga,soricina,Pallas's long-tongued bat,,,106.0,61.0,1.0,2.0,,,,10.0,,11.0,captivity,large,acceptable,0.164,9.6,308.65
+2228,2243,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Nasua,nasua,South american coati,730.0,730.0,73.0,86.0,4.0,,365.0,140.0,730.0,4750.0,,23.7,captivity,large,high,5.591,3924.3,309.55
+2844,2864,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Kerodon,rupestris,Rock cavy,151.0,,75.0,35.0,1.5,5.0,86.0,76.0,,950.0,,12.9,captivity,medium,acceptable,2.011,801.0,311.35
+2706,2726,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,nictitans,White-nosed guenon,1460.0,,172.0,,1.0,0.5,719.0,406.0,,5465.0,,31.0,captivity,small,acceptable,,,
+2443,2461,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,maculatus,"Tiger quoll, or Australian tiger cat",340.0,340.0,21.0,135.0,3.0,1.0,365.0,,500.0,5500.0,,6.8,captivity,small,acceptable,3.142,1782.0,310.05
+2088,2103,Animalia,Chordata,Mammalia,Carnivora,Eupleridae,Fossa,fossana,Malagasy civet,728.0,,82.0,76.0,1.0,,365.0,67.5,,1540.0,,21.4,captivity,small,acceptable,5.02262,2260.0,311.05
+2165,2180,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lutra,lutra,European otter,548.0,548.0,61.0,55.0,2.0,1.0,365.0,110.5,,6750.0,,18.2,captivity,medium,acceptable,25.104,10000.0,311.25
+2240,2255,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Arctictis,binturong,Binturong,925.0,840.0,92.0,79.0,2.0,2.0,348.0,318.0,2100.0,12250.0,,27.0,captivity,medium,acceptable,12.747,14280.0,309.85
+3088,3108,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Spalacopus,cyanus,Coruro,,,80.0,,2.4,1.8,,8.9,,98.0,,10.8,captivity,small,acceptable,0.561,126.2,309.65
+2230,2245,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon,cancrivorus,Crab-eating raccoon,365.0,365.0,63.0,,3.0,,,71.0,,6270.0,,19.0,captivity,small,acceptable,2.588,1160.0,310.15
+2363,2381,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Antrozous,pallidus,Pallid bat,365.0,365.0,62.0,50.0,2.0,,,3.1,,20.8,0.0543,14.8,captivity,small,acceptable,0.104,22.0,307.15
+2893,2913,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,crinitus,Canyon mouse,70.0,70.0,24.0,28.0,3.0,2.05,27.0,2.2,14.1,16.5,,7.7,captivity,small,acceptable,0.162,20.5,308.85
+2728,2748,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,sylvanus,Barbary macaque,1399.0,2007.0,164.0,213.0,1.5,1.0,365.0,450.0,2420.0,10875.0,,30.0,captivity,large,high,,,
+3081,3101,Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Dendromus,mesomelas,Brant's climbing mouse,,,,,4.4,,,,,13.0,,3.3,captivity,small,acceptable,,,
+2601,2619,Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Rhynchocyon,chrysopygus,Golden-rumped elephant shrew,38.0,,42.0,15.0,1.0,4.5,81.0,80.0,180.0,540.0,,11.0,captivity,small,acceptable,,,
+2942,2962,Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Hoplomys,gymnurus,Armored rat,,,60.0,,2.1,,,24.3,,504.0,,7.0,captivity,small,acceptable,,,
+2399,2417,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Nyctalus,noctula,Noctule,90.0,455.0,60.0,,1.5,1.0,,5.37,,27.75,0.0303,12.0,wild,medium,acceptable,,,
+2554,2572,Animalia,Chordata,Mammalia,Diprotodontia,Pseudocheiridae,Hemibelideus,lemuroides,Lemuroid ringtail possum,730.0,730.0,,,1.0,,365.0,,,1040.0,,5.4,captivity,small,acceptable,,,
+2761,2781,Animalia,Chordata,Mammalia,Primates,Galagidae,Galago,moholi,South African galago,146.0,372.0,124.0,,1.4,2.0,182.0,12.3,,169.2,,16.6,captivity,medium,acceptable,0.285,170.0,
+2054,2069,Animalia,Chordata,Mammalia,Carnivora,Ailuridae,Ailurus,fulgens,Red panda,550.0,550.0,116.0,137.0,2.0,1.0,365.0,100.0,1140.0,4325.0,0.009,19.0,captivity,large,high,4.898,5740.0,310.75
+2994,3014,Animalia,Chordata,Mammalia,Rodentia,Muridae,Acomys,cahirinus,Spiny mouse,58.0,59.0,38.0,14.0,3.0,3.5,34.0,5.27,15.16,45.2,0.0147,5.9,captivity,large,high,0.258,42.0,310.65
+2444,2462,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,viverrinus,Eastern quoll,335.0,335.0,20.0,168.0,6.0,1.0,365.0,0.02,600.0,1090.0,,6.8,captivity,small,acceptable,2.26,945.3,309.05
+2685,2705,Animalia,Chordata,Mammalia,Primates,Cebidae,Cebus,olivaceus,Weeping capuchin,2190.0,,162.0,740.0,1.0,0.5,792.0,,,2552.5,,47.0,captivity,medium,acceptable,,,
+2369,2387,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,fuscus,Big brown bat,547.0,730.0,35.0,,2.0,1.0,365.0,3.9,17.2,23.0,0.062,19.0,wild,medium,acceptable,0.113,13.3,309.15
+2763,2783,Animalia,Chordata,Mammalia,Primates,Galagidae,Galagoides,demidoff,Demidoff's galago,256.0,270.0,111.0,50.0,1.1,1.0,365.0,7.5,,60.0,,13.4,captivity,small,acceptable,0.372,62.4,
+2646,2665,Animalia,Chordata,Mammalia,Primates,Aotidae,Aotus,trivirgatus,Northern night monkey,821.0,730.0,142.0,77.0,1.0,1.4,269.0,88.5,360.0,800.0,,30.1,captivity,medium,acceptable,2.499,914.5,311.15
+2878,2898,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Myodes,glareolus,Bank vole,47.0,72.0,20.0,20.0,4.3,3.2,21.0,1.82,9.8,20.8,0.0809,4.9,captivity,small,acceptable,0.312,21.5,
+2654,2673,Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,belzebuth,White-bellied spider monkey,1461.0,1826.0,184.0,,1.0,0.3,1095.0,,,7535.0,,37.0,captivity,small,acceptable,,,
+2566,2584,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,concolor,Eastern European hedgehog,213.0,253.0,35.0,,4.5,1.5,,22.0,,719.0,,7.0,captivity,tiny,acceptable,1.937,822.7,308.35
+2169,2184,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,foina,Beech marten,548.0,730.0,30.0,66.0,3.5,1.0,365.0,30.0,,1700.0,,18.2,captivity,small,acceptable,,,
+2309,2327,Animalia,Chordata,Mammalia,Chiroptera,Megadermatidae,Macroderma,gigas,Australian false vampire bat,365.0,365.0,91.0,,1.0,1.0,,21.6,,150.0,,22.6,captivity,small,acceptable,0.639,126.0,310.15
+2712,2732,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Colobus,guereza,Guereza,1461.0,2192.0,175.0,377.0,1.0,1.0,365.0,397.8,1600.0,9950.0,,35.0,captivity,large,high,17.037,10623.6,310.15
+2934,2954,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Allactaga,major,Great jerboa,378.0,,,,4.0,,,,,350.0,,7.0,captivity,tiny,acceptable,,,
+2233,2248,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Helarctos,malayanus,Sun bear,2372.0,,95.0,90.0,1.0,,,325.0,,46000.0,,35.9,captivity,medium,acceptable,,,311.25
+2262,2278,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,acutorostrata,Common minke whale,2740.0,2740.0,312.0,183.0,1.0,1.0,470.0,320000.0,,7500000.0,,50.0,wild,medium,acceptable,,,
+2176,2191,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Melogale,moschata,Chinese ferret-badger,,,,,2.5,,,,,672.0,,19.0,captivity,tiny,acceptable,,,
+2335,2353,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Dobsonia,moluccensis,Moluccan naked-backed fruit bat,715.0,,150.0,180.0,1.0,1.0,,55.0,,430.0,,12.3,captivity,small,acceptable,1.411,312.4,309.95
+2051,2066,Animalia,Chordata,Mammalia,Artiodactyla,Tragulidae,Moschiola,meminna,Indian spotted chevrotain,,,150.0,,1.5,,,319.0,,2450.0,,14.5,captivity,small,acceptable,,,
+2298,2315,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Monodon,monoceros,Narwhal,2191.0,2922.0,450.0,,1.0,0.3,914.0,80000.0,,1250000.0,,50.0,wild,medium,acceptable,,,
+2324,2342,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Diphylla,ecaudata,Hairy-legged vampire bat,,,213.0,,1.0,,,4.8,,28.0,,8.0,wild,medium,acceptable,,,
+2890,2910,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Onychomys,leucogaster,Northern grasshopper mouse,100.0,114.0,31.0,23.0,4.0,2.5,32.0,2.6,13.1,32.5,0.0634,5.6,captivity,tiny,acceptable,,,
+2705,2725,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,neglectus,De Brazza's monkey,1611.0,2555.0,177.0,395.0,1.0,1.0,365.0,260.0,1640.0,5945.0,,30.8,captivity,medium,acceptable,,,
+2855,2875,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Cricetus,cricetus,Black-bellied hamster,43.0,56.0,20.0,23.0,7.0,2.0,131.0,7.0,105.0,506.7,,3.6,captivity,small,acceptable,1.251,365.3,312.65
+2267,2283,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Megaptera,novaeangliae,Humpback whale,1643.0,1643.0,342.0,,1.0,0.5,657.0,1350000.0,,30000000.0,,95.0,wild,medium,acceptable,,,309.15
+2484,2502,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Monodelphis,adusta,Sepia short-tailed opossum,,,,,,,,,,35.0,,4.1,captivity,small,acceptable,,,
+1917,1931,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,nigrifrons,Black-fronted duiker,,,,,,,,,,13900.0,,17.9,captivity,small,acceptable,,,
+2115,2130,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,tigris,Tiger,1268.0,1415.0,105.0,121.0,2.5,0.4,750.0,1190.0,11003.0,119700.0,,26.3,captivity,large,high,133.859,137900.0,310.65
+1964,1978,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,aries,"Domestic sheep, or Mouflon",548.0,914.0,146.0,,1.58,1.0,365.0,2370.0,,80000.0,,22.8,captivity,large,high,,,311.95
+2153,2168,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Aonyx,cinereus,Oriental small-clawed otter,730.0,730.0,63.0,,1.42,2.0,182.0,57.0,,3000.0,,23.0,captivity,large,acceptable,,,
+2803,2823,Animalia,Chordata,Mammalia,Primates,Lorisidae,Perodicticus,potto,Potto,547.0,547.0,170.0,,1.0,1.0,354.0,38.3,,919.9,0.0125,32.4,captivity,small,acceptable,1.942,968.6,309.25
+1965,1979,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,canadensis,Bighorn sheep,707.0,749.0,180.0,152.0,1.0,1.0,365.0,4400.0,28000.0,70275.0,0.0031,20.6,captivity,medium,acceptable,114.674,67030.8,311.15
+1912,1926,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capricornis,sumatraensis,Serow,912.0,1004.0,213.0,,1.0,1.0,,3500.0,,95000.0,,18.5,captivity,small,acceptable,,,
+2668,2687,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Leontocebus,fuscicollis,Saddlebacked tamarin,546.0,730.0,147.0,91.0,1.8,1.0,202.0,39.9,,456.5,,24.9,captivity,medium,acceptable,,,
+2802,2822,Animalia,Chordata,Mammalia,Primates,Lorisidae,Nycticebus,pygmaeus,Pygmy slow loris,273.0,,188.0,133.0,2.0,,448.0,23.0,,419.0,,19.3,captivity,medium,acceptable,,,
+2891,2911,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Onychomys,torridus,Southern grasshopper mouse,41.0,41.0,30.0,20.0,3.7,2.7,30.0,2.6,9.2,22.0,0.018,4.6,captivity,small,acceptable,0.165,19.1,309.15
+2491,2509,Animalia,Chordata,Mammalia,Diprotodontia,Burramyidae,Burramys,parvus,Mountain pygmy possum,320.0,320.0,15.0,60.0,3.5,1.0,365.0,,22.0,45.0,,12.0,unknown,medium,acceptable,0.205,44.3,309.25
+2546,2564,Animalia,Chordata,Mammalia,Diprotodontia,Phascolarctidae,Phascolarctos,cinereus,Koala,646.0,1095.0,31.0,342.0,1.0,1.0,471.0,0.36,1155.0,9300.0,0.0028,22.1,captivity,large,high,5.744,4732.4,308.95
+2580,2598,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,europaeus,European hare,236.0,,42.0,29.0,2.0,3.8,,119.67,390.0,4175.0,0.0191,10.7,captivity,small,acceptable,,,311.45
+2888,2908,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Ochrotomys,nuttalli,Golden mouse,,,30.0,21.0,2.7,,25.0,2.7,12.5,22.0,0.0591,8.4,captivity,small,acceptable,0.151,19.5,309.55
+2679,2698,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,leucopus,Silvery-brown bare-face tamarin,,,142.0,,2.0,,,44.0,,490.0,,15.2,captivity,small,acceptable,,,
+2592,2610,Animalia,Chordata,Mammalia,Lagomorpha,Ochotonidae,Ochotona,princeps,American pika,347.0,,30.0,28.0,3.0,2.2,30.0,9.0,81.1,100.0,0.0376,7.0,captivity,small,acceptable,0.932,109.0,313.25
+2483,2501,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Metachirus,nudicaudatus,Brown four-eyed opossum,,,,,5.0,,365.0,,,440.0,,3.0,captivity,small,acceptable,1.144,336.0,308.15
+1998,2013,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis,axis,Chital,766.0,913.0,226.0,122.0,1.03,,426.0,3144.0,,36000.0,,20.8,captivity,large,high,,,312.35
+1874,1888,Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Echinops,telfairi,Lesser hedgehog tenrec,365.0,365.0,55.0,29.0,6.0,1.0,,7.67,50.0,180.0,0.0301,19.0,captivity,medium,acceptable,0.75,116.4,307.85
+2583,2601,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,cuniculus,European rabbit,730.0,,30.0,26.0,5.0,4.3,29.0,45.0,214.0,1800.0,0.0228,13.0,captivity,large,acceptable,7.395,2167.9,312.15
+2819,2839,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Loxodonta,africana,African bush elephant,4018.0,3650.0,670.0,1071.0,1.0,0.2,1707.0,105000.0,600000.0,4800000.0,0.0003,65.0,captivity,large,acceptable,,,309.35
+2307,2325,Animalia,Chordata,Mammalia,Chiroptera,Emballonuridae,Taphozous,hilli,Hill's tomb bat,,,,,,,,,,21.99,,8.8,wild,small,acceptable,,,
+2344,2362,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,giganteus,Indian flying fox,365.0,365.0,145.0,120.0,1.0,1.0,365.0,45.0,,1175.0,,44.0,captivity,large,high,1.622,562.2,309.85
+2425,2443,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Euphractus,sexcinctus,Six-banded armadillo,274.0,274.0,68.0,28.0,2.0,,,105.0,420.0,4850.0,,22.1,captivity,medium,acceptable,6.901,8190.0,307.35
+2920,2940,Animalia,Chordata,Mammalia,Rodentia,Cuniculidae,Cuniculus,paca,Lowland paca,365.0,365.0,116.0,78.0,1.0,1.5,191.0,680.0,,9000.0,0.0165,16.3,captivity,small,acceptable,15.323,9156.0,310.35
+2295,2312,Animalia,Chordata,Mammalia,Cetacea,Kogiidae,Kogia,breviceps,Pygmy sperm whale,,,335.0,,1.0,1.0,,82000.0,,424600.0,,17.0,wild,medium,acceptable,,,
+2059,2074,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,274.0,274.0,63.0,60.0,6.0,1.0,365.0,250.0,1517.0,13250.0,0.0183,21.8,captivity,medium,acceptable,19.423,10148.9,310.15
+2834,2854,Animalia,Chordata,Mammalia,Rodentia,Capromyidae,Plagiodontia,aedium,Hispaniolan hutia,,,119.0,,1.0,,,105.85,,1267.0,0.0092,15.9,captivity,small,acceptable,,,
+1924,1938,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Damaliscus,lunatus,Topi,639.0,,238.0,,1.0,0.6,,11100.0,,110000.0,,35.0,captivity,medium,acceptable,,,
+1957,1971,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oreotragus,oreotragus,Klipspringer,365.0,365.0,196.0,137.0,1.0,1.0,365.0,1130.0,,12000.0,,25.9,captivity,medium,acceptable,,,
+3165,3185,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,townsendii,Townsend's chipmunk,353.0,,28.0,50.0,4.5,1.0,,3.5,35.0,75.0,0.0333,9.3,captivity,small,acceptable,,,
+2618,2636,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,asinus,African wild ass,708.0,1005.0,359.0,,1.0,,,30000.0,,164998.0,,47.0,captivity,large,high,164.92,177500.0,
+2429,2447,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Zaedyus,pichiy,Pichi,320.0,320.0,60.0,42.0,2.0,,,105.0,,1500.0,,12.5,captivity,small,acceptable,2.192,1740.0,308.35
+2232,2247,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ailuropoda,melanoleuca,Giant panda,2192.0,2192.0,48.0,,1.5,0.7,548.0,110.0,,117500.0,0.0028,36.8,captivity,small,acceptable,,,
+2126,2141,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Bdeogale,nigripes,Black-footed mongoose,,,,,1.0,,,,,2000.0,,15.8,captivity,small,acceptable,,,
+2027,2042,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rusa,alfredi,Visayan spotted deer,595.0,,243.0,,,,,,,46475.0,,18.5,captivity,medium,acceptable,,,
+2700,2720,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,diana,Diana monkey,1962.0,,,365.0,1.0,1.0,365.0,475.0,,4550.0,,35.1,captivity,medium,acceptable,,,
+2730,2750,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,tonkeana,Tonkean macaque,,,173.0,,,,,,,11950.0,,28.4,captivity,medium,acceptable,,,
+2130,2145,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Galerella,sanguinea,Slender mongoose,365.0,365.0,65.0,55.0,2.0,2.0,182.0,,,500.0,,12.6,captivity,small,acceptable,2.202,519.6,311.85
+2384,2402,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,keenii,Keen's myotis,365.0,365.0,50.0,,1.0,1.0,365.0,,,7.4,,19.0,wild,medium,acceptable,,,
+2822,2842,Animalia,Chordata,Mammalia,Rodentia,Bathyergidae,Cryptomys,anselli,Ansell's mole-rat,365.0,365.0,,,,,,,,90.0,0.006,20.6,captivity,medium,acceptable,,,
+2111,2126,Animalia,Chordata,Mammalia,Carnivora,Felidae,Neofelis,nebulosa,Clouded leopard,730.0,1095.0,89.0,130.0,2.0,,,170.0,5427.5,19500.0,,19.8,captivity,medium,acceptable,,,
+1919,1933,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,silvicultor,Yellow-backed duiker,,,165.0,38.0,1.0,1.0,306.0,2400.0,20512.5,62000.0,,22.5,captivity,medium,acceptable,,,
+2925,2945,Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,leporina,"Red-rumped agouti, or Agouti",193.0,,112.0,,1.0,,,,,3265.0,,17.8,captivity,large,high,8.694,2687.0,311.45
+2412,2430,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Vespadelus,darlingtoni,Large forest bat,,,,,,,,,,6.06,,8.0,wild,large,acceptable,,,
+3109,3129,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Funisciurus,anerythrus,Thomas's rope squirrel,,,,,1.5,,,,,218.0,,10.0,captivity,small,acceptable,0.58,63.0,
+1972,1986,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Raphicerus,campestris,Steenbok,238.0,243.0,197.0,91.0,1.0,,215.0,920.0,,13000.0,,9.3,captivity,medium,acceptable,20.619,9600.0,312.55
+2627,2645,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,bicornis,Black rhinoceros,1826.0,2254.0,474.0,634.0,1.0,0.4,1059.0,36500.0,,1100000.0,0.0033,57.0,wild,medium,acceptable,,,312.15
+2477,2495,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Gracilinanus,agilis,"Agile gracile opossum, or Paraguayan slender mouse opossum",270.0,,20.0,,12.0,,,,,22.0,,6.1,captivity,small,acceptable,,,
+2748,2768,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus,francoisi,Francois's leaf monkey,1460.0,,,398.0,,,,457.0,,7325.0,,26.3,captivity,medium,acceptable,,,
+1962,1976,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovibos,moschatus,Muskox,1096.0,1278.0,258.0,213.0,1.0,0.8,608.0,11460.0,,315000.0,0.0041,27.4,captivity,medium,acceptable,,,310.85
+2013,2028,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Mazama,americana,Red brocket,395.0,365.0,225.0,182.0,1.3,1.0,,538.5,,33000.0,,17.1,captivity,medium,acceptable,,,
+1923,1937,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Connochaetes,taurinus,Blue wildebeest,411.0,912.0,253.0,278.0,1.0,1.0,365.0,18125.0,,164500.0,0.0026,24.3,captivity,large,high,230.073,196500.0,311.15
+3150,3170,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,variegatoides,Variegated squirrel,,,,,5.0,,,,,485.0,,15.1,captivity,small,acceptable,,,
+2734,2754,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Nasalis,larvatus,Proboscis monkey,1460.0,,166.0,213.0,1.25,0.7,540.0,490.0,2000.0,14617.5,0.0018,25.1,captivity,small,acceptable,,,
+2191,2206,Animalia,Chordata,Mammalia,Carnivora,Nandiniidae,Nandinia,binotata,African palm civet,1095.0,1095.0,64.0,64.0,2.0,2.0,182.0,55.0,,1900.0,,21.0,captivity,tiny,acceptable,5.565,4270.0,310.55
+1968,1982,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Philantomba,maxwellii,Maxwell's duiker,730.0,685.0,120.0,61.0,1.0,1.0,,832.0,,7000.0,,18.3,captivity,small,acceptable,,,
+3035,3055,Animalia,Chordata,Mammalia,Rodentia,Muridae,Mesembriomys,macrurus,Golden-backed tree rat,,,48.0,50.0,2.0,,,,,268.5,,7.1,captivity,small,acceptable,,,
+2159,2174,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Gulo,gulo,Wolverine,710.0,776.0,35.0,87.0,3.0,0.5,639.0,95.0,,16333.3,0.0182,19.5,captivity,medium,acceptable,31.765,12700.0,310.15
+2755,2775,Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Microcebus,murinus,Gray mouse lemur,243.0,243.0,61.0,,2.0,1.0,73.0,6.0,,64.8,0.0362,18.2,captivity,medium,acceptable,,,
+1969,1983,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Philantomba,monticola,Blue duiker,487.0,685.0,193.0,,1.0,,265.0,800.0,,6250.0,,15.9,captivity,medium,acceptable,10.075,4200.0,312.55
+2570,2588,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Paraechinus,hypomelas,Brandt's hedgehog,,,,61.0,3.2,1.0,,,,292.0,,7.0,captivity,small,acceptable,,,
+2005,2020,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,elaphus,Red deer,852.0,730.0,245.0,,1.0,0.9,,10100.0,,200000.0,0.006,31.5,captivity,large,high,112.43,67000.0,308.35
+2539,2557,Animalia,Chordata,Mammalia,Diprotodontia,Phalangeridae,Phalanger,gymnotis,Ground cuscus,,,13.0,270.0,1.0,,,,,2400.0,,18.9,captivity,small,acceptable,,,309.55
+2720,2740,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,maura,Moor macaque,1825.0,1095.0,165.0,507.0,1.0,0.6,669.0,389.5,,5575.0,,33.0,captivity,small,acceptable,,,
+2799,2819,Animalia,Chordata,Mammalia,Primates,Lorisidae,Arctocebus,calabarensis,Calabar angwantibo,279.0,270.0,133.0,115.0,1.0,1.5,137.0,26.1,160.0,257.5,0.0061,13.0,captivity,small,acceptable,0.731,206.0,309.15
+2072,2087,Animalia,Chordata,Mammalia,Carnivora,Canidae,Otocyon,megalotis,Bat-eared fox,365.0,,68.0,105.0,4.0,2.0,182.0,122.0,,4150.0,,17.0,captivity,medium,acceptable,,,
+2131,2146,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Helogale,parvula,Dwarf mongoose,456.0,,55.0,21.0,3.0,2.25,142.0,,,274.8,,20.0,captivity,large,acceptable,,,
+1958,1972,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oryx,dammah,Scimitar-horned oryx,639.0,550.0,247.0,,1.0,,,10317.0,,177500.0,,27.5,captivity,large,high,,,
+2155,2170,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Eira,barbara,Tayra,700.0,183.0,66.0,75.0,2.0,,,83.0,1708.0,4500.0,0.0159,22.3,captivity,medium,acceptable,6.811,2950.0,311.55
+2327,2345,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Macrotus,californicus,California leaf-nosed bat,120.0,365.0,270.0,,1.0,,,2.52,,11.6,,17.0,captivity,small,acceptable,0.082,11.7,308.15
+2008,2023,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Elaphodus,cephalophus,Tufted deer,639.0,730.0,180.0,,1.0,,,,,33500.0,,22.7,captivity,medium,acceptable,,,
+1908,1922,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,nubiana,Nubian ibex,818.0,1256.0,150.0,,1.0,,,,,46250.0,,22.4,captivity,large,acceptable,,,
+2599,2617,Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Macroscelides,proboscideus,Short-eared elephant shrew,44.0,,65.0,19.0,1.6,,,7.0,,40.0,,8.7,captivity,medium,acceptable,0.292,39.0,309.35
+2353,2371,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,scapulatus,Little red flying fox,540.0,540.0,,,1.0,1.0,,,,300.0,,15.8,captivity,small,acceptable,1.353,362.0,310.15
+3204,3224,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Sorex,caecutiens,Laxmann's shrew,,,,,6.4,3.0,,,,5.4,,3.0,captivity,small,acceptable,,,
+2423,2441,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,novemcinctus,Nine-banded armadillo,365.0,365.0,133.0,137.0,4.0,1.0,,66.0,,5500.0,,22.3,captivity,medium,acceptable,4.655,3413.7,307.65
+3064,3084,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,rattus,Rat,90.0,112.0,22.0,26.0,7.3,4.3,36.0,4.55,39.7,200.0,0.0207,4.2,captivity,large,acceptable,0.77,117.0,311.15
+2960,2980,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Eliomys,melanurus,Asian garden dormouse,548.0,365.0,25.0,,5.0,,,,,122.5,,6.2,captivity,small,acceptable,,,
+1942,1956,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Kobus,kob,Kob,403.0,365.0,251.0,189.0,1.0,1.3,,5405.0,31600.0,105000.0,,21.9,captivity,medium,acceptable,,,
+2276,2293,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,obliquidens,Pacific white-sided dolphin,3832.0,,320.0,,1.0,,,14000.0,,103000.0,,46.0,captivity,small,acceptable,,,
+2207,2222,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,grypus,Gray seal,1460.0,1887.0,240.0,19.0,1.0,0.9,365.0,14000.0,41450.0,268000.0,,42.9,captivity,medium,acceptable,,,
+2632,2650,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus,pinchaque,Mountain tapir,1114.0,,398.0,,1.0,,,4270.0,,148950.0,,28.5,captivity,small,acceptable,,,
+3018,3038,Animalia,Chordata,Mammalia,Rodentia,Muridae,Gerbillus,pyramidum,Greater Egyptian gerbil,74.0,73.0,21.0,21.0,3.3,5.0,,2.5,11.0,37.0,0.0329,8.2,captivity,small,acceptable,0.454,108.5,309.25
+3184,3204,Animalia,Chordata,Mammalia,Scandentia,Tupaiidae,Tupaia,tana,Large tree shrew,365.0,365.0,,31.0,2.2,,,,,197.8,,11.6,captivity,tiny,acceptable,,,
+3014,3034,Animalia,Chordata,Mammalia,Rodentia,Muridae,Gerbilliscus,validus,Southern savanna gerbil,99.0,99.0,25.0,,4.3,2.0,109.0,,30.0,113.0,,5.0,captivity,small,acceptable,,,
+2438,2456,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasycercus,cristicauda,Mulgara,315.0,315.0,38.0,121.0,7.0,1.0,365.0,,22.0,115.0,,7.4,captivity,small,acceptable,0.26,91.0,310.85
+2701,2721,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,erythrogaster,Red-bellied monkey,1572.0,,172.0,,1.0,,,,,3250.0,,24.0,captivity,tiny,acceptable,,,
+2186,2201,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Neovison,vison,American mink,334.0,371.0,42.0,49.0,4.5,1.0,365.0,8.5,110.0,925.0,0.0266,11.4,captivity,small,acceptable,2.722,660.0,312.15
+2806,2826,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Chiropotes,albinasus,White-nosed bearded saki,1460.0,,160.0,,1.0,,,,,2910.0,,20.0,captivity,small,acceptable,,,
+2305,2323,Animalia,Chordata,Mammalia,Chiroptera,Emballonuridae,Saccopteryx,bilineata,Greater sac-winged bat,365.0,,,60.0,1.0,1.0,,3.49,6.8,7.9,,6.0,wild,medium,acceptable,0.081,7.8,308.65
+3093,3113,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ammospermophilus,leucurus,White-tailed antelope squirrel,365.0,365.0,29.0,66.0,8.0,1.3,,3.21,35.0,105.0,0.0284,11.2,captivity,small,acceptable,0.511,94.1,310.65
+3028,3048,Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,meridianus,Mid-day jird,,,23.0,21.0,5.6,3.0,,,,53.0,,6.8,captivity,medium,acceptable,,,
+2432,2450,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,bellus,Fawn antechinus,350.0,,30.0,96.0,13.0,1.0,365.0,,,34.0,,3.4,captivity,small,acceptable,,,
+2064,2079,Animalia,Chordata,Mammalia,Carnivora,Canidae,Cuon,alpinus,Dhole,365.0,365.0,61.0,58.0,5.0,1.0,365.0,275.0,2350.0,15750.0,,16.1,captivity,medium,acceptable,,,
+2887,2907,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Nyctomys,sumichrasti,Vesper rat,,61.0,30.0,21.0,2.25,5.0,38.0,4.7,40.0,50.0,,5.7,captivity,small,acceptable,,,
+2393,2411,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,thysanodes,Fringed myotis,,,55.0,21.0,1.0,1.0,365.0,1.32,,6.0,0.0108,18.3,wild,medium,acceptable,,,306.15
+2118,2133,Animalia,Chordata,Mammalia,Carnivora,Felidae,Prionailurus,planiceps,Flat-headed cat,,,56.0,,,,,,,6750.0,,14.0,captivity,small,acceptable,,,
+2074,2089,Animalia,Chordata,Mammalia,Carnivora,Canidae,Urocyon,cinereoargenteus,Gray fox,345.0,365.0,57.0,55.0,4.0,1.0,365.0,95.0,519.7,4750.0,0.0127,16.2,captivity,medium,acceptable,,,
+1933,1947,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,saudiya,Saudi gazelle,499.0,637.0,156.0,,,,,,,32185.7,,21.0,captivity,medium,acceptable,,,
+2246,2261,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Genetta,genetta,Small-spotted genet,1479.0,,78.0,62.0,2.0,2.0,182.0,77.75,,1866.7,0.0059,22.7,captivity,medium,acceptable,,,
+1891,1905,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,bonasus,European bison,730.0,730.0,270.0,213.0,1.0,1.0,641.0,23375.0,,610000.0,,26.4,captivity,medium,acceptable,,,311.5
+3097,3117,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callosciurus,caniceps,Gray-bellied squirrel,,,,,2.2,,,,,257.0,,13.7,captivity,small,acceptable,,,
+2790,2810,Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,rubriventer,Red-bellied lemur,646.0,1350.0,120.0,,1.0,,,76.5,,2191.5,,31.7,captivity,medium,acceptable,,,
+2516,2534,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,robustus,Wallaroo,547.0,670.0,32.0,351.0,1.0,,264.0,0.703,2500.0,30000.0,0.0038,22.0,captivity,medium,acceptable,33.056,29647.9,309.25
+3004,3024,Animalia,Chordata,Mammalia,Rodentia,Muridae,Apodemus,sylvaticus,Long-tailed field mouse,71.0,65.0,23.0,21.0,5.2,3.8,41.0,1.5,,23.4,,6.3,captivity,medium,acceptable,0.264,23.8,309.85
+1955,1969,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Neotragus,pygmaeus,Royal antelope,487.0,685.0,183.0,,1.0,,,,,2250.0,,11.1,captivity,small,acceptable,,,
+3172,3192,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Xerus,erythropus,Striped ground squirrel,365.0,365.0,71.0,53.0,3.5,,,,,600.0,,10.3,captivity,small,acceptable,,,
+2436,2454,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,stuartii,Brown antechinus,285.0,285.0,30.0,106.0,7.0,1.0,365.0,0.016,16.0,27.5,,5.4,captivity,small,acceptable,0.189,25.0,308.25
+2414,2432,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Vespadelus,regulus,Southern forest bat,,,92.0,,1.0,1.0,,,,5.05,,8.0,wild,medium,acceptable,,,
+2180,2195,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,frenata,Long-tailed weasel,162.0,365.0,25.0,37.0,6.2,1.0,365.0,3.1,34.6,150.6,,8.8,captivity,tiny,acceptable,1.344,225.0,312.15
+2769,2789,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,sapiens,Human,4745.0,5110.0,280.0,,1.0,0.3,639.0,3312.5,,62035.0,0.0005,122.5,captivity,huge,high,82.78,70000.0,310.15
+3054,3074,Animalia,Chordata,Mammalia,Rodentia,Muridae,Psammomys,obesus,Fat sand rat,100.0,,24.0,28.0,3.5,,38.0,6.25,40.0,212.0,0.0304,3.2,captivity,medium,acceptable,,,
+2175,2190,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mellivora,capensis,Honey badger,,,180.0,,2.0,2.0,182.0,210.0,,10000.0,,31.3,captivity,medium,acceptable,,,
+2336,2354,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Eidolon,helvum,Straw-colored fruit bat,,,275.0,65.0,1.0,1.0,365.0,50.0,135.0,306.25,,21.8,captivity,large,acceptable,,,307.65
+2200,2215,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Eumetopias,jubatus,Steller sea lion,1780.0,2420.0,274.0,279.0,1.0,1.0,365.0,19000.0,106610.0,415000.0,,32.8,captivity,small,acceptable,,,
+2329,2347,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Phyllostomus,discolor,Pale spear-nosed bat,,,105.0,,1.0,,,7.0,,43.4,,9.0,wild,medium,acceptable,0.267,33.5,307.75
+2485,2503,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Monodelphis,brevicaudata,"Northern red-sided opossum, or Short bare-tailed opossum",180.0,180.0,,,7.0,1.5,,,,90.0,,3.9,captivity,tiny,acceptable,0.366,91.5,306.85
+3101,3121,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callosciurus,prevostii,Prevost's squirrel,,,48.0,,1.8,,,16.35,,400.0,,21.1,captivity,medium,acceptable,,,
+2373,2391,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasionycteris,noctivagans,Silver-haired bat,152.0,152.0,55.0,36.0,2.0,1.0,365.0,1.67,,10.0,,12.0,wild,medium,acceptable,,,
+2747,2767,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus,cristatus,Silvered leaf monkey,1461.0,,150.0,365.0,1.0,,,,,6185.0,,28.3,captivity,medium,acceptable,,,
+2377,2395,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,blythii,Lesser mouse-eared bat,421.0,502.0,69.0,,1.0,,,,,23.0,,33.0,wild,medium,acceptable,,,
+2407,2425,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,pipistrellus,Common pipistrelle,456.0,456.0,42.0,42.0,1.2,1.0,365.0,1.125,,5.0,0.0668,16.6,wild,medium,acceptable,,,
+1892,1906,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,frontalis,Gaur,590.0,550.0,275.0,137.0,1.0,0.9,634.0,23000.0,,825000.0,,26.2,captivity,medium,acceptable,,,
+1999,2014,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis,calamianensis,Calamian deer,304.0,,224.0,,2.0,,,,,40500.0,,17.2,captivity,medium,acceptable,,,
+3183,3203,Animalia,Chordata,Mammalia,Scandentia,Tupaiidae,Tupaia,minor,Pygmy tree shrew,61.0,61.0,50.0,,2.0,,,,,58.6,,12.2,captivity,tiny,acceptable,,,
+2717,2737,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,assamensis,Assam macaque,,,,,,,,,,9100.0,,31.4,captivity,medium,acceptable,,,
+2426,2444,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Priodontes,maximus,Giant armadillo,320.0,320.0,122.0,35.0,1.5,,,62.15,,33000.0,,15.0,captivity,small,acceptable,16.892,45190.0,306.75
+2442,2460,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,hallucatus,Northern quoll,315.0,315.0,,90.0,6.8,1.0,365.0,,,525.0,,5.9,captivity,small,acceptable,1.501,571.0,309.05
+2750,2770,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus,obscurus,Dusky leaf monkey,1461.0,,145.0,365.0,1.0,0.5,,300.0,,7080.0,,33.9,captivity,medium,acceptable,,,
+2689,2709,Animalia,Chordata,Mammalia,Primates,Cebidae,Sapajus,apella,Brown capuchin,1703.0,,158.0,307.0,1.5,0.6,671.0,239.7,1000.0,2642.5,,46.0,captivity,large,high,,,
+2947,2967,Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Proechimys,semispinosus,"Tome's spiny rat, or Spiny rat",146.0,146.0,64.0,21.0,2.4,4.68,,23.0,,500.0,0.0131,5.8,captivity,small,acceptable,1.75,498.0,311.05
+2273,2290,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Grampus,griseus,Risso's dolphin,3652.0,3652.0,365.0,,1.0,,,,,425000.0,,42.5,captivity,tiny,acceptable,,,
+3185,3205,Animalia,Chordata,Mammalia,Scandentia,Tupaiidae,Urogale,everetti,Mindanao tree shrew,,,55.0,38.0,2.0,,,20.0,104.4,350.0,,11.5,captivity,small,acceptable,1.25,260.6,309.15
+2096,2111,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,manul,Pallas' cat,365.0,,72.0,,4.1,,,89.0,,3500.0,,15.9,captivity,medium,acceptable,,,
+2841,2861,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Galea,musteloides,Common yellow-toothed cavy,66.0,60.0,54.0,39.0,2.63,7.0,53.0,37.99,136.8,337.9,0.0181,3.5,captivity,small,acceptable,1.473,322.0,310.45
+2892,2912,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,californicus,California mouse,46.0,,30.0,30.0,2.0,4.6,24.0,4.46,18.6,42.0,,5.5,captivity,small,acceptable,0.267,47.0,309.55
+2026,2041,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rucervus,eldii,Eld's deer,508.0,,241.0,240.0,1.0,1.0,372.0,4750.0,,122500.0,,20.5,captivity,large,high,,,
+2062,2077,Animalia,Chordata,Mammalia,Carnivora,Canidae,Cerdocyon,thous,Crab-eating fox,274.0,274.0,55.0,90.0,4.0,1.9,243.0,140.0,,6500.0,0.0166,12.7,captivity,small,acceptable,8.502,5444.0,311.35
+3124,3144,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Otospermophilus,variegatus,Rock squirrel,421.0,,30.0,53.0,4.3,1.5,,7.8,100.0,663.0,,9.8,captivity,small,acceptable,,,
+3174,3194,Animalia,Chordata,Mammalia,Rodentia,Spalacidae,Cannomys,badius,Lesser bamboo rat,,,42.0,61.0,1.8,,,7.0,,650.0,0.0145,4.8,captivity,small,acceptable,0.96,344.0,309.15
+1994,2008,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Lama,guanicoe,Guanaco,365.0,730.0,335.0,345.0,1.0,0.5,,11500.0,,127500.0,,33.7,captivity,large,high,,,311.15
+2455,2473,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Pseudantechinus,macdonnellensis,Fat-tailed marsupial mouse,350.0,350.0,43.0,106.0,6.0,1.0,365.0,0.0123,,32.5,,7.0,captivity,small,acceptable,0.152,43.1,307.35
+2260,2276,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Eubalaena,australis,Southern right whale,3285.0,,365.0,,1.0,0.3,1214.0,910000.0,,45000000.0,,70.0,wild,medium,acceptable,,,
+1902,1916,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Budorcas,taxicolor,Takin,730.0,730.0,210.0,,1.0,1.0,365.0,6000.0,,180000.0,,21.9,captivity,medium,acceptable,,,
+2959,2979,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Dryomys,nitedula,Forest dormouse,,,28.0,30.0,3.0,1.2,,1.73,,26.0,,4.1,captivity,small,acceptable,,,
+2371,2389,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,serotinus,Serotine,,,68.0,,1.5,1.0,,5.3,,18.2,0.0487,21.0,wild,medium,acceptable,,,
+2682,2701,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,oedipus,Cotton-top tamarin,548.0,550.0,178.0,52.0,1.9,1.0,244.0,39.36,105.0,445.5,0.0102,26.2,captivity,large,high,,,
+1881,1895,Animalia,Chordata,Mammalia,Artiodactyla,Antilocapridae,Antilocapra,americana,Pronghorn,547.0,547.0,235.0,91.0,2.0,1.0,365.0,3000.0,8900.0,46100.0,0.0083,17.0,captivity,medium,acceptable,50.973,34779.3,311.15
+2584,2602,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Sylvilagus,audubonii,Audubon's cottontail rabbit,164.0,107.0,29.0,28.0,3.0,5.0,,34.5,,900.0,,7.8,captivity,small,acceptable,2.506,686.9,311.45
+2430,2448,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Antechinomys,laniger,Kultarr,350.0,350.0,12.0,90.0,6.0,1.5,183.0,,,24.0,,3.5,captivity,small,acceptable,0.141,25.8,308.95
+2840,2860,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Dolichotis,patagonum,Patagonian mara,158.0,183.0,85.0,65.0,2.0,3.5,100.0,561.94,,12500.0,,14.4,captivity,large,high,,,
+2310,2328,Animalia,Chordata,Mammalia,Chiroptera,Megadermatidae,Megaderma,lyra,Greater false vampire bat,540.0,450.0,150.0,,1.0,1.0,,7.5,,38.6,,14.0,wild,medium,acceptable,,,
+2571,2589,Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Dendrohyrax,arboreus,"Southern tree hyrax, or Tree hyrax",365.0,365.0,229.0,152.0,2.0,,,380.0,,3000.0,,13.6,captivity,small,acceptable,,,
+3215,3235,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Suncus,murinus,Asian house shrew,36.0,36.0,30.0,19.0,3.0,9.8,56.0,2.68,33.35,45.9,0.0643,3.2,captivity,small,acceptable,0.403,39.7,311.85
+2493,2511,Animalia,Chordata,Mammalia,Diprotodontia,Burramyidae,Cercartetus,nanus,Eastern pygmy possum,190.0,190.0,,62.0,4.0,2.0,95.0,0.0198,8.4,40.0,,10.3,captivity,small,acceptable,0.311,64.8,308.75
+2670,2689,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Leontopithecus,chrysomelas,Golden-headed lion tamarin,654.0,730.0,132.0,,2.0,,,,,535.0,,21.3,captivity,large,acceptable,,,
+2777,2797,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hylobates,moloch,Silvery gibbon,2849.0,1825.0,243.0,724.0,1.0,0.4,730.0,,,6207.5,,45.0,captivity,medium,acceptable,,,
+2553,2571,Animalia,Chordata,Mammalia,Diprotodontia,Potoroidae,Potorous,tridactylus,Long-nosed potoroo,400.0,,30.0,154.0,1.0,2.0,145.0,0.333,118.0,1430.0,0.0122,14.5,captivity,medium,acceptable,2.556,1045.5,309.05
+2774,2794,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hylobates,agilis,Agile gibbon,2849.0,1825.0,216.0,724.0,1.0,0.3,1138.0,,,5925.0,,49.0,captivity,medium,acceptable,,,
+2868,2888,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,arvalis,Common vole,38.0,56.0,21.0,20.0,5.1,5.5,20.0,1.85,8.9,27.5,0.0561,4.8,captivity,small,acceptable,0.343,21.9,310.15
+2185,2200,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,sibirica,Siberian weasel,,,29.0,60.0,6.0,,,,,565.0,,8.8,captivity,medium,acceptable,,,
+1879,1893,Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Setifer,setosus,Greater hedgehog tenrec,198.0,258.0,54.0,24.0,3.0,1.0,,24.7,,225.0,0.0419,14.1,captivity,medium,acceptable,0.573,427.6,305.35
+2927,2947,Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,prymnolopha,Black-rumped agouti,,,,,1.5,,,,,2900.0,,16.3,captivity,small,acceptable,,,
+1915,1929,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,natalensis,Natal duiker,,,213.0,,1.0,,235.0,955.0,,10000.0,,15.2,captivity,medium,acceptable,,,
+2729,2749,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,thibetana,Tibetan macaque,1454.0,2099.0,170.0,571.0,1.0,0.5,730.0,525.0,2400.0,10300.0,,27.0,captivity,tiny,acceptable,,,
+2504,2522,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Lagorchestes,conspicillatus,Spectacled hare-wallaby,363.0,,30.0,204.0,1.0,,153.0,,,3000.0,,8.8,captivity,small,acceptable,4.749,2660.0,309.15
+2552,2570,Animalia,Chordata,Mammalia,Diprotodontia,Potoroidae,Potorous,longipes,Long-footed potoroo,755.0,,38.0,161.0,1.0,,151.0,,890.0,1650.0,,15.3,captivity,small,acceptable,,,
+2277,2294,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Orcaella,brevirostris,Irrawaddy dolphin,1826.0,1826.0,426.0,471.0,1.0,,,12300.0,45000.0,190000.0,,30.0,wild,medium,acceptable,,,
+2129,2144,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Galerella,pulverulenta,Cape gray mongoose,,,61.0,58.0,2.6,,,20.2,,650.0,,11.7,captivity,small,acceptable,,,
+3114,3134,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Glaucomys,volans,Southern flying squirrel,210.0,,40.0,58.0,4.0,1.3,134.0,3.35,46.2,65.4,,19.0,captivity,medium,acceptable,0.414,67.4,312.15
+2301,2318,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Phocoenoides,dalli,Dall's porpoise,1826.0,2375.0,347.0,302.0,1.0,0.7,1096.0,,,120000.0,,22.0,wild,medium,acceptable,,,
+2577,2595,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,brachyurus,Japanese hare,,,38.0,,2.1,2.5,,,,2519.0,,13.0,captivity,small,acceptable,,,
+2832,2852,Animalia,Chordata,Mammalia,Rodentia,Capromyidae,Geocapromys,brownii,Brown's hutia,365.0,,123.0,,2.0,2.0,168.0,,,1500.0,,13.5,captivity,small,acceptable,4.11,2456.0,309.15
+3037,3057,Animalia,Chordata,Mammalia,Rodentia,Muridae,Micromys,minutus,Old World harvest mouse,40.0,37.0,20.0,18.0,5.2,2.6,21.0,0.9,,6.0,,3.8,captivity,large,acceptable,0.201,7.6,311.15
+2650,2669,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,palliata,Mantled howler monkey,1095.0,1278.0,186.0,433.0,1.0,0.6,384.0,409.0,1100.0,7000.0,,24.0,captivity,small,acceptable,11.464,4670.0,309.15
+3179,3199,Animalia,Chordata,Mammalia,Rodentia,Thryonomyidae,Thryonomys,swinderianus,Greater cane rat,365.0,365.0,155.0,30.0,4.0,2.3,,129.0,,6600.0,,5.4,captivity,tiny,acceptable,,,
+2337,2355,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Epomophorus,gambianus,Gambian epauletted fruit bat,,,150.0,,1.0,1.5,,10.0,,80.0,,7.8,captivity,small,acceptable,,,
+2794,2814,Animalia,Chordata,Mammalia,Primates,Lemuridae,Prolemur,simus,Greater bamboo lemur,,,142.0,,1.0,1.0,,,,1737.5,,17.6,captivity,small,acceptable,,,
+2280,2297,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Pseudorca,crassidens,False killer whale,3468.0,6756.0,451.0,730.0,1.0,0.1,1096.0,,,748000.0,,62.5,captivity,small,acceptable,,,309.75
+2271,2288,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Globicephala,macrorhynchus,Short-finned pilot whale,3470.0,5332.0,452.0,730.0,1.0,0.2,1095.0,60000.0,,2200000.0,,63.0,wild,medium,acceptable,,,
+2270,2287,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Delphinus,delphis,Short-beaked saddleback dolphin,1754.0,1583.0,301.0,345.0,1.0,0.4,548.0,7000.0,40000.0,80000.0,,25.0,wild,medium,acceptable,,,
+2792,2812,Animalia,Chordata,Mammalia,Primates,Lemuridae,Hapalemur,griseus,"Gray bamboo lemur, or Bamboo lemur",880.0,1346.0,145.0,,1.1,1.1,335.0,50.4,,1012.5,,23.3,captivity,small,acceptable,,,
+2082,2097,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,pallida,Pale fox,313.0,274.0,52.0,,4.0,,,75.0,,2800.0,,16.0,captivity,small,acceptable,,,
+2906,2926,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Reithrodon,auritus,"Bunny, or Coney rat",61.0,,,,4.5,,,,,72.2,,5.5,captivity,small,acceptable,0.428,78.7,
+2475,2493,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,marsupialis,Southern opossum,178.0,240.0,12.0,94.0,6.0,2.0,200.0,0.2,96.0,1530.0,,4.2,captivity,small,acceptable,3.31,1244.3,308.15
+2643,2661,Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Tamandua,tetradactyla,Southern tamandua,365.0,,160.0,,1.0,1.4,,,,4500.0,,19.0,captivity,medium,acceptable,5.015,3500.0,306.65
+2606,2624,Animalia,Chordata,Mammalia,Monotremata,Tachyglossidae,Zaglossus,bruijni,"Western long-beaked echidna, or Long-nosed echidna",,,10.0,152.0,1.0,,,,400.0,7500.0,,41.2,captivity,tiny,acceptable,6.493,11848.6,303.95
+3021,3041,Animalia,Chordata,Mammalia,Rodentia,Muridae,Lemniscomys,barbarus,Barbary striped grass mouse,,,,,4.6,,,,,26.2,,4.4,captivity,medium,acceptable,,,
+3015,3035,Animalia,Chordata,Mammalia,Rodentia,Muridae,Gerbillus,gerbillus,Lesser Egyptian gerbil,,,,,4.1,,,,,30.0,,5.9,captivity,small,acceptable,0.237,29.7,310.35
+2752,2772,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus,pileatus,Capped leaf monkey,,,,,,,,,,11450.0,,25.2,captivity,small,acceptable,,,
+3067,3087,Animalia,Chordata,Mammalia,Rodentia,Muridae,Sekeetamys,calurus,Bushy-tailed jird,,,,,2.9,,,,,65.0,,7.3,captivity,medium,acceptable,0.274,63.6,310.65
+2537,2555,Animalia,Chordata,Mammalia,Diprotodontia,Petauridae,Petaurus,norfolcensis,Squirrel glider,,,20.0,122.0,1.5,,183.0,,,405.0,0.0249,14.8,captivity,medium,acceptable,,,
+2257,2272,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Viverra,zibetha,Large indian civet,,,80.0,30.0,3.0,2.0,182.0,,,10000.0,,21.7,captivity,small,acceptable,,,
+2253,2268,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Paradoxurus,hermaphroditus,Asian palm civet,341.0,,60.0,,3.4,2.0,182.0,88.65,,3100.0,0.0087,24.5,captivity,tiny,acceptable,5.534,3282.6,309.65
+2780,2800,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Nomascus,concolor,Crested gibbon,3080.0,,207.0,724.0,1.0,,821.0,,,6852.5,,46.1,captivity,small,acceptable,,,
+2935,2955,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Allactaga,sibirica,Mongolian five-toed jerboa,,,,,3.4,1.0,,,,117.5,,4.5,captivity,small,acceptable,,,
+2568,2586,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Hemiechinus,auritus,Long-eared hedgehog,213.0,,39.0,36.0,4.0,1.0,365.0,10.0,,342.0,,7.6,captivity,small,acceptable,0.845,398.5,306.95
+2338,2356,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Epomophorus,wahlbergi,Wahlberg's epauletted fruit bat,244.0,,165.0,,1.0,2.0,,,,80.0,,10.1,captivity,tiny,acceptable,,,
+2139,2154,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Herpestes,vitticollis,Striped-necked mongoose,,,,,2.5,,,,,2250.0,,12.8,captivity,small,acceptable,,,
+2511,2529,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,eugenii,Tammar wallaby,274.0,730.0,28.0,325.0,1.0,1.0,365.0,0.429,3000.0,6500.0,,15.1,captivity,medium,acceptable,7.78,4796.0,309.65
+2684,2704,Animalia,Chordata,Mammalia,Primates,Cebidae,Cebus,capucinus,White-faced capuchin,1505.0,2921.0,162.0,521.0,1.0,0.5,803.0,230.0,1350.0,2655.0,,54.0,captivity,medium,acceptable,,,
+3142,3162,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,carolinensis,Eastern gray squirrel,343.0,401.0,44.0,66.0,4.0,2.0,,15.0,200.0,533.0,0.0234,23.6,captivity,small,acceptable,2.062,440.0,311.85
+2804,2824,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Cacajao,calvus,"Bald uacari, or Red uakari",1204.0,,182.0,639.0,1.0,0.5,776.0,,,3165.0,,35.8,captivity,small,acceptable,,,
+2400,2418,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Nycticeius,humeralis,Evening bat,365.0,456.0,,30.0,2.0,1.0,365.0,1.75,2.6,9.75,0.0157,6.0,wild,medium,acceptable,,,307.15
+2046,2061,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,verrucosus,Javan pig,274.0,,120.0,,6.0,,,1000.0,,76000.0,,17.0,captivity,small,acceptable,,,
+2055,2070,Animalia,Chordata,Mammalia,Carnivora,Canidae,Atelocynus,microtis,Short-eared dog,,,,,,,,,,9500.0,,11.9,captivity,small,acceptable,,,
+3202,3222,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Sorex,araneus,Eurasian shrew,198.0,335.0,21.0,25.0,6.0,1.9,40.0,0.44,8.5,9.0,,3.2,captivity,small,acceptable,0.348,8.4,308.15
+2478,2496,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Lutreolina,crassicaudata,Lutrine opossum,183.0,183.0,14.0,,8.0,2.0,,,,370.0,,2.9,captivity,small,acceptable,2.265,812.0,308.95
+2388,2406,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,myotis,Mouse-eared bat,502.0,502.0,65.0,,1.0,1.0,365.0,5.9,,28.55,0.109,37.1,wild,large,acceptable,,,308.15
+2722,2742,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,nemestrina,"Southern pig-tailed macaque, or Pigtail macaque",1125.0,1095.0,172.0,324.0,1.0,0.8,405.0,462.5,1416.5,7912.5,0.0015,37.6,captivity,large,acceptable,,,
+2193,2208,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,australis,South American fur seal,1095.0,2556.0,236.0,411.0,1.0,1.0,365.0,4250.0,,110000.0,,30.6,captivity,small,acceptable,,,
+3032,3052,Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,unguiculatus,Mongolian jird,43.0,36.0,25.0,24.0,5.0,4.0,46.0,3.0,14.3,53.2,0.0324,6.3,captivity,medium,acceptable,0.546,64.8,311.35
+2732,2752,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Mandrillus,sphinx,Mandrill,1186.0,,173.0,354.0,1.0,0.8,532.0,613.0,3000.0,23000.0,,40.0,captivity,large,high,,,
+2751,2771,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus,phayrei,Phayre's leaf monkey,1461.0,,167.0,309.0,1.0,0.8,456.0,,,8400.0,,28.3,captivity,tiny,acceptable,,,
+2334,2352,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Cynopterus,sphinx,Greater short-nosed fruit bat,150.0,525.0,120.0,42.0,1.2,2.0,,11.0,25.0,75.0,,10.0,captivity,small,acceptable,,,
+3086,3106,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Octodon,degus,Degu,182.0,182.0,90.0,36.0,6.0,1.8,,14.0,71.2,235.0,0.0323,14.0,captivity,large,acceptable,0.958,199.6,310.75
+2514,2532,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,parma,Parma wallaby,424.0,620.0,34.0,303.0,1.0,1.3,213.0,0.5067,754.0,4250.0,0.01,15.9,captivity,large,high,,,
+1944,1958,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Kobus,megaceros,Nile lechwe,730.0,730.0,235.0,,1.0,1.0,353.0,5100.0,,90000.0,,21.1,captivity,large,high,,,
+2589,2607,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Sylvilagus,transitionalis,New England cottontail,120.0,,28.0,16.0,4.8,2.5,,30.0,,902.6,,9.3,captivity,tiny,acceptable,,,
+2097,2112,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,margarita,Sand cat,274.0,,67.0,,4.5,2.0,198.0,55.5,,2750.0,0.0255,13.9,captivity,medium,acceptable,,,
+2032,2047,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Okapia,johnstoni,Okapi,578.0,790.0,458.0,194.0,1.0,0.8,,16000.0,77000.0,225000.0,,33.5,captivity,medium,acceptable,,,311.22
+2289,2306,Animalia,Chordata,Mammalia,Cetacea,Hyperoodontidae,Berardius,bairdii,Baird's beaked whale,4383.0,2922.0,517.0,,1.0,0.3,,,,11380000.0,,84.0,wild,medium,acceptable,,,
+3102,3122,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callospermophilus,lateralis,Golden-mantled ground squirrel,637.0,,30.0,37.0,5.12,0.94,,6.26,74.2,157.6,0.0411,10.4,captivity,small,acceptable,0.967,249.6,309.45
+3141,3161,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,aureogaster,Red-bellied squirrel,,,,,2.0,,,,,600.0,,11.5,captivity,small,acceptable,,,
+1918,1932,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,rufilatus,Red-flanked duiker,270.0,270.0,230.0,,1.0,,,943.0,,13000.0,,15.2,captivity,medium,acceptable,,,
+2503,2521,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Dorcopsulus,macleayi,"Macleay's dorcopsis, or Papuan mountain wallaby",730.0,730.0,21.0,,1.2,,,,,2988.0,,7.9,captivity,small,acceptable,,,
+2709,2729,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,wolfi,Wolf's monkey,1685.0,,170.0,,1.0,,,435.0,,3390.0,,24.0,captivity,small,acceptable,,,
+2843,2863,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,Capybara,456.0,456.0,150.0,103.0,4.8,1.25,245.0,1500.0,8299.0,55000.0,,15.1,captivity,large,high,36.754,26385.0,310.25
+2621,2639,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,hemionus,Kulan,1157.0,1187.0,339.0,456.0,1.0,0.7,458.0,,,230000.0,,31.6,captivity,medium,acceptable,,,
+2928,2948,Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,punctata,Central American agouti,487.0,,112.0,,2.0,,127.0,227.0,,2150.0,,13.8,captivity,medium,acceptable,,,
+2507,2525,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,agilis,Agile wallaby,365.0,425.0,29.0,214.0,1.0,1.8,220.0,0.634,2286.7,16000.0,,16.9,captivity,medium,acceptable,,,
+2070,2085,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycaon,pictus,African wild dog,639.0,639.0,72.0,91.0,8.0,1.0,362.0,318.0,,26500.0,,17.0,captivity,large,high,33.01,8750.0,
+2967,2987,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Chaetodipus,fallax,San Diego pocket mouse,166.0,166.0,25.0,,3.0,1.0,,,,18.7,,8.3,captivity,small,acceptable,0.15,19.6,305.75
+2466,2484,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,youngsoni,Lesser hairy-footed dunnart,,,,,5.5,,365.0,,,10.0,,5.3,captivity,small,acceptable,,,
+2882,2902,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Neotoma,albigula,White-throated woodrat,84.0,101.0,29.0,43.0,2.0,2.0,49.0,11.5,103.3,209.0,,9.5,captivity,small,acceptable,0.735,177.6,309.15
+1988,2002,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,scriptus,Bushbuck,496.0,,188.0,,1.0,1.5,236.0,3800.0,,60000.0,0.0044,15.3,captivity,medium,acceptable,,,
+2666,2685,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Callithrix,penicillata,Black-pencilled marmoset,477.0,382.0,144.0,,2.0,,,,,307.0,,15.4,captivity,medium,acceptable,,,
+2727,2747,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,sinica,Toque macaque,1460.0,,152.0,396.0,1.0,0.7,547.0,446.0,,4370.0,,29.3,captivity,small,acceptable,,,
+2360,2378,Animalia,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,ferrumequinum,Greater horseshoe bat,730.0,730.0,80.0,,1.0,1.0,365.0,5.8,,22.875,,30.5,wild,medium,acceptable,,,
+3163,3183,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,sibiricus,Siberian chipmunk,350.0,350.0,35.0,40.0,4.8,1.1,103.0,4.0,,85.0,,9.6,captivity,medium,acceptable,,,
+1920,1934,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,weynsi,Weyns's duiker,,,213.0,,,,,,,10000.0,,15.2,captivity,small,acceptable,,,
+2674,2693,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Mico,humeralifer,Tassel-eared marmoset,304.0,334.0,144.0,,2.0,,,34.5,,355.8,,15.0,captivity,small,acceptable,,,
+2536,2554,Animalia,Chordata,Mammalia,Diprotodontia,Petauridae,Petaurus,breviceps,Sugar glider,236.0,456.0,16.0,122.0,2.0,1.3,311.0,0.194,25.0,110.0,0.0188,17.8,captivity,large,high,0.517,129.3,309.05
+2379,2397,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,dasycneme,Pond bat,,,,,1.0,,,,,15.0,,20.5,wild,medium,acceptable,,,
+2408,2426,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Plecotus,auritus,Brown big-eared bat,365.0,365.0,65.0,42.0,1.33,1.0,365.0,2.09,,7.8,,30.0,wild,medium,acceptable,0.082,10.2,307.15
+2038,2053,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Babyrousa,babyrussa,Babirusa,548.0,548.0,153.0,213.0,1.3,2.0,,715.0,,71500.0,,22.9,captivity,medium,acceptable,,,
+2697,2717,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,ascanius,Black-cheeked white-nosed monkey,1642.0,,147.0,182.0,1.0,0.7,540.0,371.0,,3705.0,,31.2,captivity,medium,acceptable,,,
+2704,2724,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,mona,Mona monkey,,,,,1.0,,,284.0,,4500.0,,30.0,captivity,medium,acceptable,,,
+2676,2695,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,geoffroyi,Geoffroy's tamarin,548.0,550.0,142.0,56.0,2.0,,241.0,46.03,,499.3,,20.5,captivity,medium,acceptable,1.305,225.0,
+1914,1928,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,jentinki,Jentink's duiker,,,,,1.0,,,4581.0,,70000.3,,21.0,captivity,tiny,acceptable,,,
+1978,1992,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Rupicapra,rupicapra,Chamois,674.0,669.0,122.0,76.0,1.0,1.0,365.0,2400.0,,37500.0,,17.6,captivity,medium,acceptable,,,
+2318,2336,Animalia,Chordata,Mammalia,Chiroptera,Noctilionidae,Noctilio,leporinus,Greater bulldog bat,365.0,365.0,35.0,,1.0,1.0,,,,50.0,,11.8,captivity,medium,acceptable,0.4,61.0,306.95
+1897,1911,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Boselaphus,tragocamelus,Nilgai,815.0,,255.0,,1.5,1.0,365.0,5875.0,,180000.0,,21.7,captivity,large,high,,,
+2420,2438,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Chaetophractus,vellerosus,Screaming hairy armadillo,,,,,,,,,,840.0,,16.2,captivity,small,acceptable,1.707,1110.0,307.55
+2045,2060,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,scrofa,Wild boar,334.0,768.0,115.0,,7.0,1.5,230.0,960.0,,130000.0,0.0095,27.0,captivity,large,high,104.15,135000.0,312.15
+2880,2900,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Myodes,rutilus,Northern red-backed vole,,,18.0,,5.6,4.2,20.0,1.8,,20.0,,2.1,captivity,small,acceptable,,,
+2042,2057,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Potamochoerus,porcus,Red river hog,1096.0,1096.0,122.0,91.0,3.0,,365.0,775.0,,88000.0,0.0099,22.0,captivity,large,high,,,
+3059,3079,Animalia,Chordata,Mammalia,Rodentia,Muridae,Pseudomys,laborifex,Kimberly mouse,,,,,,,,,,12.0,,6.9,captivity,small,acceptable,,,
+2068,2083,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,sechurae,Sechuran fox,,,,,,,,,,4000.0,,9.9,captivity,tiny,acceptable,,,
+3055,3075,Animalia,Chordata,Mammalia,Rodentia,Muridae,Pseudomys,australis,"Plains mouse, or Australian native mouse",145.0,180.0,31.0,26.0,3.1,,,4.0,12.5,65.0,0.0278,7.9,captivity,medium,acceptable,,,
+2926,2946,Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,mexicana,Mexican agouti,,,,,,,,,,2700.0,,13.1,captivity,small,acceptable,,,
+2931,2951,Animalia,Chordata,Mammalia,Rodentia,Dinomyidae,Dinomys,branickii,Pacarana,,,253.0,15.0,2.0,,,900.0,,12250.0,,12.8,captivity,small,acceptable,,,
+2773,2793,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hoolock,hoolock,"Western hoolock gibbon, or Hoolock gibbon",2556.0,,,709.0,1.0,0.3,1080.0,,,6875.0,,41.0,captivity,small,acceptable,,,
+2856,2876,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Dicrostonyx,groenlandicus,Collared lemming,40.0,85.0,20.0,16.0,3.4,8.5,26.0,4.35,23.0,66.0,0.0402,3.3,unknown,medium,acceptable,0.459,56.8,311.55
+1911,1925,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capricornis,crispus,Japanese serow,1095.0,1095.0,215.0,,1.0,1.0,548.0,3510.5,,80000.0,,24.0,captivity,small,acceptable,,,
+2183,2198,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,nivalis,Least weasel,120.0,120.0,36.0,39.0,5.0,1.5,200.0,2.6,43.5,46.9,0.0546,9.1,captivity,small,acceptable,,,
+2148,2163,Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Conepatus,leuconotus,"American hog-nosed skunk, or Hog-nosed skunk",319.0,319.0,56.0,,3.4,1.5,182.0,,,1900.0,,10.2,captivity,tiny,acceptable,,,
+2793,2813,Animalia,Chordata,Mammalia,Primates,Lemuridae,Lemur,catta,Ring-tailed lemur,595.0,912.0,135.0,152.0,1.1,0.9,365.0,70.6,,2555.0,,37.3,captivity,large,high,,,
+2930,2950,Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Myoprocta,acouchy,Red acouchi,304.0,304.0,99.0,53.0,2.0,,,100.0,350.0,775.0,0.0229,14.8,captivity,small,acceptable,2.804,914.0,308.55
+2547,2565,Animalia,Chordata,Mammalia,Diprotodontia,Potoroidae,Aepyprymnus,rufescens,Rufous 'rat'-kangaroo,333.0,380.0,23.0,162.0,1.0,3.0,115.0,,,3250.0,,12.8,captivity,tiny,acceptable,5.978,2820.0,
+1927,1941,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Eudorcas,thomsonii,Thomson's gazelle,365.0,180.0,170.0,102.0,1.0,1.5,190.0,2600.0,,25000.0,,20.0,captivity,medium,acceptable,,,
+2772,2792,Animalia,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus,Orangutan,2555.0,2555.0,249.0,1003.0,1.0,0.2,1414.0,1736.5,11000.0,64475.0,0.0009,59.0,captivity,large,acceptable,,,
+2681,2700,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,mystax,Black-chested mustached tamarin,486.0,540.0,145.0,171.0,2.0,,168.0,46.9,,543.5,,20.0,captivity,small,acceptable,,,
+2449,2467,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Phascogale,tapoatafa,Brush-tailed phascogale,365.0,365.0,29.0,122.0,6.4,1.0,365.0,,70.0,193.5,,5.9,captivity,small,acceptable,0.694,153.7,310.55
+2352,2370,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,rodricensis,Rodriguez flying fox,755.0,,198.0,,1.0,1.0,,45.0,,350.0,,28.0,captivity,large,acceptable,0.753,254.5,309.65
+3100,3120,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callosciurus,notatus,Plantain squirrel,414.0,,48.0,,3.07,,,,,190.0,,14.8,captivity,tiny,acceptable,,,
+2565,2583,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,amurensis,Amur hedgehog,266.0,253.0,36.0,,,,,,,774.475,,8.0,captivity,tiny,acceptable,,,
+2921,2941,Animalia,Chordata,Mammalia,Rodentia,Cuniculidae,Cuniculus,taczanowskii,Mountain paca,342.0,365.0,115.0,,1.0,2.0,,,,8999.9,,18.9,captivity,small,acceptable,,,
+2759,2779,Animalia,Chordata,Mammalia,Primates,Daubentoniidae,Daubentonia,madagascariensis,Aye-aye,882.0,,165.0,,1.0,1.0,760.0,109.0,,2277.5,,32.3,captivity,small,acceptable,,,
+1916,1930,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,niger,Black duiker,,,128.0,,1.0,,,1940.0,,18100.0,,14.8,captivity,small,acceptable,,,
+2290,2307,Animalia,Chordata,Mammalia,Cetacea,Hyperoodontidae,Hyperoodon,ampullatus,Northern bottlenose whale,3652.0,3287.0,365.0,365.0,1.0,1.0,365.0,,,6500000.0,,37.0,wild,medium,acceptable,,,
+3079,3099,Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Cricetomys,gambianus,Gambian rat,158.0,,34.0,31.0,3.5,3.75,,25.7,,1500.0,0.042,8.4,captivity,small,acceptable,6.024,1686.7,308.75
+2330,2348,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Phyllostomus,hastatus,Greater spear-nosed bat,730.0,730.0,120.0,,1.0,1.0,,15.9,,81.0,,18.0,wild,medium,acceptable,0.559,84.2,307.85
+2956,2976,Animalia,Chordata,Mammalia,Rodentia,Geomyidae,Thomomys,bottae,Botta's pocket gopher,319.0,319.0,19.0,38.0,5.5,1.0,,3.3,,115.5,,6.1,captivity,small,acceptable,0.67,143.0,309.15
+2505,2523,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Lagorchestes,hirsutus,Rufous hare-wallaby,330.0,,,150.0,1.0,,125.0,,1000.0,1310.0,,13.2,captivity,medium,acceptable,,,
+2757,2777,Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Mirza,coquereli,Giant mouse lemur,312.0,275.0,89.0,136.0,1.8,1.0,365.0,14.8,,311.2,,17.4,captivity,small,acceptable,,,
+2241,2256,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Arctogalidia,trivirgata,Small-toothed palm civet,1095.0,,45.0,61.0,2.5,2.0,182.0,,,2250.0,,16.1,captivity,small,acceptable,3.085,2010.0,309.35
+1926,1940,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Eudorcas,rufifrons,Red-fronted gazelle,365.0,,175.0,,1.0,,,,,15011.0,,14.5,captivity,medium,acceptable,,,
+2743,2763,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Semnopithecus,johnii,Hooded leaf monkey,,,,,1.0,,,,,12000.0,,34.0,captivity,tiny,acceptable,,,
+2623,2641,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,quagga,Quagga,900.0,900.0,365.0,395.0,1.0,0.6,556.0,32000.0,205000.0,280000.0,0.0038,38.0,captivity,large,high,,,
+2735,2755,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio,hamadryas,Hamadryas baboon,1514.0,1762.0,171.0,300.0,1.0,0.8,568.0,814.0,3950.0,18000.0,0.0026,37.5,captivity,large,high,21.095,12670.8,311.15
+2120,2135,Animalia,Chordata,Mammalia,Carnivora,Felidae,Prionailurus,viverrinus,Fishing cat,,,72.0,182.0,2.0,,,170.0,,10650.0,,17.2,captivity,medium,acceptable,,,
+2163,2178,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,Northern river otter,730.0,730.0,62.0,122.0,2.5,0.9,365.0,140.0,1510.0,9000.0,,27.0,captivity,medium,acceptable,,,311.55
+3121,3141,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,marmota,Alpine marmot,730.0,730.0,35.0,47.0,4.0,1.0,914.0,30.0,,3500.0,,17.4,captivity,medium,acceptable,,,
+2251,2266,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Hemigalus,derbyanus,Banded palm civet,,,,71.0,2.0,,,125.0,,2400.0,,16.0,captivity,tiny,acceptable,,,
+3033,3053,Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,vinogradovi,Vinogradov's jird,,,22.0,,7.0,,,3.0,,150.0,,6.7,captivity,small,acceptable,,,
+2093,2108,Animalia,Chordata,Mammalia,Carnivora,Felidae,Catopuma,temminckii,Asiatic golden cat,639.0,,95.0,,1.0,,,250.0,,13500.0,,23.0,captivity,medium,acceptable,,,
+3177,3197,Animalia,Chordata,Mammalia,Rodentia,Spalacidae,Spalax,ehrenbergi,Palestine mole rat,,,29.0,,3.0,1.0,,,,160.0,,20.2,captivity,small,acceptable,0.585,133.8,308.7
+3061,3081,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,fuscipes,Bush rat,107.0,90.0,26.0,30.0,5.0,3.3,,4.5,21.3,130.0,,5.3,captivity,small,acceptable,0.471,76.0,310.65
+2287,2304,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Tursiops,truncatus,Bottlenosed dolphin,2831.0,3689.0,365.0,,1.0,0.5,858.0,19350.0,,200000.0,,51.6,captivity,medium,acceptable,,,
+2127,2142,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Crossarchus,obscurus,Long-nosed cusimanse,274.0,274.0,58.0,23.0,4.0,2.5,122.0,9.8,,790.0,,13.3,captivity,small,acceptable,,,
+2677,2696,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,imperator,Emperor tamarin,546.0,730.0,145.0,,2.0,,,47.0,,518.5,,23.7,captivity,large,high,,,
+2389,2407,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,mystacinus,Whiskered bat,365.0,456.0,,,1.0,,365.0,,,5.3,,24.0,wild,medium,acceptable,,,
+2721,2741,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,mulatta,Rhesus monkey,1231.0,2007.0,165.0,,1.0,1.0,444.0,464.0,,8235.0,0.0012,40.0,captivity,large,high,,,310.45
+3181,3201,Animalia,Chordata,Mammalia,Scandentia,Tupaiidae,Tupaia,belangeri,Northern tree shrew,122.0,122.0,46.0,36.0,2.0,7.5,,10.0,,200.0,0.0351,11.1,captivity,medium,acceptable,,,311.95
+2060,2075,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,lupus,Gray wolf,669.0,669.0,62.0,47.0,6.0,0.8,365.0,450.0,5250.0,26625.0,0.0177,20.6,captivity,large,high,,,311.45
+2364,2382,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Barbastella,barbastellus,Western barbastelle,548.0,,,,2.0,1.0,365.0,,,10.25,,23.0,wild,medium,acceptable,,,
+2138,2153,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Herpestes,urva,Crab-eating mongoose,,,66.0,,3.0,,,,,1863.2,,13.3,captivity,small,acceptable,,,
+3082,3102,Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Hypogeomys,antimena,Malagasy giant rat,730.0,365.0,120.0,35.0,1.0,,,,,1250.0,,12.6,captivity,small,acceptable,,,
+2350,2368,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,pselaphon,Bonin flying fox,,,,,1.0,,,,,321.49,,16.7,captivity,small,acceptable,,,
+2965,2985,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Graphiurus,platyops,Rock dormouse,,,,,5.2,,,,,46.1,,7.3,captivity,small,acceptable,,,
+1989,2003,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,spekii,Sitatunga,401.0,,242.0,,1.0,1.0,353.0,4000.0,,87500.0,,22.6,captivity,large,high,,,
+2029,2044,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rusa,timorensis,Timor deer,464.0,,251.0,228.0,1.0,1.0,366.0,,,63000.0,,21.1,captivity,medium,acceptable,,,
+2250,2265,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Genetta,tigrina,Large-spotted genet,1461.0,,70.0,59.0,2.5,2.0,304.0,71.5,,1820.0,,21.3,captivity,small,acceptable,4.189,1699.0,310.15
+2174,2189,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Meles,meles,"European badger, or Old World badger",365.0,365.0,49.0,90.0,3.0,1.0,365.0,80.0,,13000.0,0.0196,18.6,captivity,medium,acceptable,16.647,11050.0,310.15
+3024,3044,Animalia,Chordata,Mammalia,Rodentia,Muridae,Leporillus,conditor,Greater stick-nest rat,227.0,240.0,38.0,36.0,2.2,,,,,332.5,,5.3,captivity,small,acceptable,,,
+2522,2540,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Petrogale,brachyotis,"Short-eared rock-wallaby, or Western rock wallaby",540.0,590.0,30.0,,1.0,,,,,3700.0,,10.1,captivity,small,acceptable,,,
+2160,2175,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Hydrictis,maculicollis,Spotted-necked otter,842.0,,61.0,,2.0,,365.0,,,4000.0,,22.9,captivity,small,acceptable,,,
+2508,2526,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,antilopinus,Antilopine wallaroo,802.0,670.0,34.0,426.0,1.0,,270.0,0.703,,49500.0,,19.8,captivity,small,acceptable,,,
+2609,2627,Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Echymipera,rufescens,Long-nosed echymipera,,,,,2.2,,,,,1250.0,,3.1,captivity,small,acceptable,2.255,886.6,308.05
+3069,3089,Animalia,Chordata,Mammalia,Rodentia,Muridae,Tatera,indica,Indian gerbil,77.0,91.0,26.0,24.0,5.4,4.2,48.0,3.0,,146.7,0.024,7.0,captivity,small,acceptable,0.422,86.9,309.15
+2813,2833,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Plecturocebus,donacophilus,Bolivian titi,,,,,1.0,,,,,795.0,,25.0,captivity,medium,acceptable,,,
+2285,2302,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Steno,bredanensis,Rough-toothed dolphin,3650.0,2739.0,,,,,,,,114000.0,,32.0,wild,medium,acceptable,,,
+2762,2782,Animalia,Chordata,Mammalia,Primates,Galagidae,Galago,senegalensis,Senegal galago,240.0,300.0,126.0,89.0,1.5,2.0,225.0,12.2,100.0,192.2,0.0169,17.1,captivity,medium,acceptable,0.764,171.5,311.05
+3063,3083,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,norvegicus,Norway rat,90.0,70.0,21.0,,9.9,3.7,,5.81,,300.0,,3.8,captivity,large,acceptable,1.404,206.9,310.25
+2146,2161,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Proteles,cristata,Aardwolf,631.0,,84.0,132.0,2.5,,,275.0,,10000.0,,20.0,captivity,small,acceptable,11.563,7902.6,309.55
+3151,3171,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,vulgaris,Eurasian red squirrel,296.0,320.0,38.0,62.0,5.0,2.0,91.0,9.25,,600.0,0.021,14.8,captivity,medium,acceptable,,,
+2380,2398,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,daubentonii,Daubenton's bat,730.0,730.0,54.0,,1.0,1.0,,2.09,,8.5,,28.0,wild,medium,acceptable,,,
+3218,3238,Animalia,Chordata,Mammalia,Soricomorpha,Talpidae,Mogera,wogura,Japanese mole,,,40.0,,3.8,1.0,,,,97.0,,3.2,captivity,small,acceptable,,,
+1947,1961,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Madoqua,kirkii,Kirk's dik-dik,213.0,304.0,172.0,71.0,1.0,2.0,244.0,600.0,1780.0,5000.0,0.0124,17.3,captivity,medium,acceptable,11.966,4290.0,312.15
+2718,2738,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,fascicularis,Long-tailed macaque,1238.0,1544.0,165.0,,1.0,0.9,431.0,320.0,,6362.5,,39.0,captivity,large,acceptable,,,310.75
+3038,3058,Animalia,Chordata,Mammalia,Rodentia,Muridae,Millardia,gleadowi,Sand-colored rat,,,,,2.3,,,,,70.0,,4.0,captivity,small,acceptable,,,
+2459,2477,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,crassicaudata,Fat-tailed dunnart,115.0,159.0,14.0,69.0,7.0,2.0,94.0,0.01,6.5,15.0,,5.0,captivity,small,acceptable,0.121,16.0,308.35
+2988,3008,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Hystrix,brachyura,Malayan porcupine,,,112.0,,1.5,,,445.0,,8000.0,,27.3,captivity,medium,acceptable,,,
+2788,2808,Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,macaco,Black lemur,540.0,266.0,120.0,,1.4,1.0,365.0,70.1,,2467.0,,37.5,captivity,medium,acceptable,,,
+1938,1952,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Hemitragus,jemlahicus,Himalayan tahr,547.0,730.0,183.0,151.0,1.0,1.0,365.0,2000.0,,35200.0,,24.0,captivity,medium,acceptable,,,
+3078,3098,Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Cricetomys,emini,Giant rat,162.0,,34.0,,1.0,,,,,1300.0,,7.4,captivity,tiny,acceptable,,,
+2106,2121,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leptailurus,serval,Serval,821.0,,70.0,128.0,2.5,2.5,176.0,263.0,,13350.0,,22.4,captivity,large,high,1.44,1012.0,
+2739,2759,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Pygathrix,nemaeus,"Red-shanked douc langur, or Douc langur",1460.0,,171.0,330.0,1.0,1.0,365.0,393.5,,9720.0,,26.0,captivity,medium,acceptable,,,
+2007,2022,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,dama,Fallow deer,487.0,507.0,233.0,183.0,1.0,1.0,365.0,4500.0,22570.0,70000.0,,27.0,captivity,large,acceptable,,,
+1931,1945,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,gazella,Mountain gazelle,476.0,685.0,180.0,88.0,1.0,1.5,297.0,2360.0,,23250.0,,18.3,captivity,large,high,,,312.65
+2944,2964,Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Proechimys,brevicauda,"Andean spiny rat, or Short-tailed spiny-rat",148.0,,64.0,,,,,,,285.0,,6.8,captivity,small,acceptable,,,
+2031,2046,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Giraffa,camelopardalis,Giraffe,1278.0,1644.0,457.0,,1.0,0.5,620.0,58500.0,,800000.0,,39.5,captivity,large,high,,,310.25
+3152,3172,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Spermophilus,citellus,European ground squirrel,314.0,314.0,27.0,34.0,6.0,1.3,,,,217.0,,6.7,captivity,medium,acceptable,1.272,240.0,310.65
+2950,2970,Animalia,Chordata,Mammalia,Rodentia,Erethizontidae,Erethizon,dorsatus,North American porcupine,1095.0,1095.0,210.0,,1.0,1.0,,500.0,,8600.0,0.0079,23.4,captivity,medium,acceptable,13.675,6871.0,309.15
+2316,2334,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida,teniotis,European free-tailed bat,365.0,,46.0,,1.0,,,,,35.0,,13.0,wild,medium,acceptable,,,308.25
+2658,2677,Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,marginatus,White-whiskered spider monkey,1461.0,1826.0,141.0,,,,,,,6000.0,,44.0,captivity,tiny,acceptable,,,
+2108,2123,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,lynx,Eurasian lynx,639.0,1004.0,66.0,87.0,2.0,1.0,365.0,246.5,1860.0,23000.0,0.0097,26.0,captivity,large,acceptable,,,
+2328,2346,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Macrotus,waterhousii,Waterhouse's leaf-nosed bat,91.0,,244.0,,1.0,,,0.59,,16.0,,10.4,wild,medium,acceptable,,,
+2975,2995,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Dipodomys,ordii,Ord's kangaroo rat,61.0,,29.0,34.0,3.0,2.0,143.0,5.0,,57.0,,9.9,captivity,small,acceptable,0.339,47.8,307.75
+2308,2326,Animalia,Chordata,Mammalia,Chiroptera,Hipposideridae,Hipposideros,fulvus,Fulvus roundleaf bat,563.0,563.0,158.0,,1.0,1.0,,2.34,,7.0,,13.0,wild,medium,acceptable,,,
+2812,2832,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Plecturocebus,cupreus,Coppery titi,1096.0,,132.0,206.0,1.0,0.9,395.0,74.0,,1120.0,,26.4,captivity,medium,acceptable,,,
+1961,1975,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ourebia,ourebi,Oribi,304.0,426.0,193.0,137.0,1.0,1.5,185.0,2235.0,,17000.0,,15.9,captivity,tiny,acceptable,,,
+1884,1898,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Alcelaphus,buselaphus,Hartebeest,730.0,,247.0,193.0,1.0,1.0,365.0,9050.0,,159000.0,,22.5,captivity,medium,acceptable,,,
+3089,3109,Animalia,Chordata,Mammalia,Rodentia,Pedetidae,Pedetes,capensis,"South African springhare, or Springhare",1034.0,,80.0,46.0,1.0,3.6,101.0,275.0,1300.0,3500.0,,20.0,captivity,small,acceptable,4.427,2300.0,309.05
+2578,2596,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,californicus,Black-tailed jackrabbit,243.0,,44.0,41.0,1.0,3.7,,84.34,1300.0,4175.0,0.0225,11.8,captivity,tiny,acceptable,7.314,2300.0,312.35
+2204,2219,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Zalophus,californianus,California sea lion,1095.0,1826.0,259.0,315.0,1.2,0.5,730.0,7000.0,25000.0,180000.0,,35.7,captivity,large,high,,,311.25
+1878,1892,Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Microgale,talazaci,Talazac's shrew tenrec,639.0,639.0,61.0,29.0,2.0,,,3.6,,50.0,0.0298,5.8,captivity,small,acceptable,0.243,44.0,303.95
+2745,2765,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Theropithecus,gelada,Gelada baboon,1391.0,2190.0,168.0,433.0,1.0,0.5,740.0,464.0,3900.0,16200.0,,36.0,captivity,medium,acceptable,,,
+2144,2159,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,brunnea,Brown hyena,1000.0,,92.0,342.0,2.5,0.4,511.0,688.0,27400.0,42250.0,,31.9,captivity,small,acceptable,,,
+2390,2408,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,nattereri,Natterer's bat,,,,60.0,1.0,1.0,365.0,,,7.5,,23.7,wild,medium,acceptable,,,
+2297,2314,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Delphinapterus,leucas,Beluga,1644.0,2283.0,416.0,,1.0,0.3,1004.0,66000.0,,1430000.0,,40.0,captivity,medium,acceptable,,,308.95
+2172,2187,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,pennanti,Fisher,365.0,365.0,45.0,66.0,2.5,1.0,365.0,35.0,,3175.0,,14.3,captivity,small,acceptable,,,311.65
+2448,2466,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Phascogale,calura,Red-tailed phascogale,330.0,,29.0,90.0,7.5,1.0,365.0,,,43.0,,4.7,captivity,medium,acceptable,,,
+2339,2357,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Haplonycteris,fischeri,Philippine pygmy fruit bat,120.0,315.0,90.0,70.0,1.0,1.0,,2.74,,18.0,,10.0,unknown,medium,acceptable,,,
+2234,2249,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Melursus,ursinus,Sloth bear,1095.0,1095.0,198.0,76.0,1.5,,1095.0,400.0,,100000.0,,33.3,captivity,medium,acceptable,47.064,66957.0,
+2596,2614,Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Elephantulus,intufi,"Bushveld elephant shrew, or Long-eared elephant shrew",335.0,183.0,52.0,38.0,1.6,,67.0,10.0,,52.0,,9.3,captivity,small,acceptable,0.29,46.5,310.35
+1894,1908,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,javanicus,Banteng,730.0,,295.0,304.0,1.0,1.0,,,,700000.0,,27.1,captivity,medium,acceptable,,,311.95
+2044,2059,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,salvanius,Pygmy hog,700.0,700.0,108.0,,3.0,,,191.5,,8000.0,,14.0,captivity,small,acceptable,,,
+1901,1915,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bubalus,quarlesi,Mountain anoa,755.0,,295.0,,1.0,1.0,,,,150000.0,,29.2,captivity,tiny,acceptable,,,
+2114,2129,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,pardus,Leopard,937.0,771.0,97.0,110.0,2.0,1.25,444.0,550.0,1940.0,53750.0,0.0079,27.3,captivity,large,high,,,
+2052,2067,Animalia,Chordata,Mammalia,Artiodactyla,Tragulidae,Tragulus,javanicus,Lesser mouse-deer,167.0,167.0,144.0,84.0,1.0,,,370.0,,2850.0,,14.0,captivity,medium,acceptable,4.883,1615.5,311.55
+2103,2118,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,pardalis,Ocelot,600.0,600.0,77.0,106.0,2.0,1.0,452.0,255.5,3400.0,8800.0,,28.2,captivity,medium,acceptable,17.368,10500.0,311.15
+2012,2027,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Hydropotes,inermis,Chinese water deer,183.0,,190.0,,2.7,,,1042.0,,11500.0,,13.9,captivity,large,acceptable,,,311.45
+2178,2193,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,erminea,Ermine,95.0,365.0,43.0,45.0,6.77,1.0,365.0,2.3,26.6,110.3,,12.5,captivity,small,acceptable,1.276,125.5,312.75
+2383,2401,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,grisescens,Gray myotis,456.0,456.0,,,1.0,1.0,365.0,2.9,,9.25,0.0964,16.5,wild,medium,acceptable,,,
+2453,2471,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Planigale,tenuirostris,Narrow-nosed planigale,240.0,,19.0,95.0,6.0,2.0,332.0,,2.7,5.3,,5.2,captivity,small,acceptable,0.063,7.1,307.65
+2673,2692,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Mico,argentatus,Silvery marmoset,304.0,334.0,144.0,120.0,2.0,3.2,213.0,35.1,,343.2,0.0059,16.5,captivity,medium,acceptable,,,
+2692,2712,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Allochrocebus,preussi,Preuss's monkey,,,,,1.0,,,,,5250.0,,26.0,captivity,small,acceptable,,,
+1893,1907,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,grunniens,Yak,738.0,738.0,274.0,228.0,1.0,0.8,,18000.0,,667000.0,,26.3,captivity,large,high,,,311.15
+2182,2197,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,nigripes,Black-footed ferret,365.0,365.0,43.0,,3.0,,365.0,7.4,,1021.0,,9.4,captivity,medium,acceptable,,,
+2293,2310,Animalia,Chordata,Mammalia,Cetacea,Hyperoodontidae,Ziphius,cavirostris,Cuvier's beaked whale,,,365.0,,1.0,,,,,2701000.0,,62.0,wild,medium,acceptable,,,
+3159,3179,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,minimus,Least chipmunk,365.0,365.0,30.0,44.0,4.9,1.0,365.0,2.3,,44.1,,10.0,captivity,small,acceptable,0.349,49.3,310.15
+3134,3154,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Pteromys,volans,Siberian flying squirrel,,,30.0,46.0,2.6,1.5,,,,130.0,,11.4,captivity,medium,acceptable,,,
+2092,2107,Animalia,Chordata,Mammalia,Carnivora,Felidae,Caracal,caracal,Caracal,456.0,456.0,74.0,122.0,3.0,,365.0,165.0,,16000.0,0.0096,20.3,captivity,medium,acceptable,,,
+2640,2658,Animalia,Chordata,Mammalia,Pilosa,Megalonychidae,Choloepus,hoffmanni,Hoffmann's two-toed sloth,730.0,1095.0,350.0,21.0,1.0,0.7,456.0,402.0,,6250.0,,41.0,captivity,medium,acceptable,3.891,4005.2,307.55
+3022,3042,Animalia,Chordata,Mammalia,Rodentia,Muridae,Lemniscomys,striatus,Typical striped grass mouse,168.0,,25.0,30.0,4.54,2.0,22.0,1.7,15.0,42.3,,4.8,captivity,medium,acceptable,,,
+2660,2679,Animalia,Chordata,Mammalia,Primates,Atelidae,Brachyteles,arachnoides,"Southern muriqui, or Woolly spider monkey, or Muriqui",2738.0,,232.0,662.0,1.0,0.3,730.0,,,11170.0,,40.0,wild,medium,acceptable,,,
+2656,2675,Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,fusciceps,Brown-headed spider monkey,1515.0,1826.0,227.0,410.0,1.0,0.5,882.0,400.0,,7000.0,,46.0,captivity,large,acceptable,,,
+2003,2018,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Capreolus,capreolus,Western roe deer,413.0,655.0,153.0,,1.6,1.0,365.0,1010.0,,21666.7,,17.5,captivity,medium,acceptable,46.347,21500.0,311.15
+2648,2667,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,caraya,Black howler monkey,1167.0,928.0,187.0,195.0,1.0,1.0,338.0,187.5,,5462.5,,32.4,captivity,medium,acceptable,,,
+2469,2487,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Caluromys,derbianus,Central American woolly opossum,240.0,240.0,21.0,,3.0,,,,,330.0,,8.7,captivity,small,acceptable,1.194,342.7,308.15
+2079,2094,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,corsac,Corsac fox,504.0,,53.0,28.0,4.7,,365.0,62.5,,2700.0,,13.0,captivity,medium,acceptable,,,
+1980,1994,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Sylvicapra,grimmia,Bush duiker,255.0,255.0,165.0,191.0,1.0,1.4,245.0,1612.0,,18500.0,,15.4,captivity,medium,acceptable,,,
+2156,2171,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Enhydra,lutris,Sea otter,974.0,1369.0,140.0,175.0,1.0,0.8,548.0,1868.0,13425.0,25850.0,,27.0,captivity,medium,acceptable,98.479,26832.8,310.65
+2320,2338,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Artibeus,jamaicensis,Jamaican fruit-eating bat,289.0,289.0,76.0,,1.0,2.0,,5.9,,42.2,,19.2,captivity,large,acceptable,0.359,46.1,309.55
+1992,2006,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus,dromedarius,Dromedary,1095.0,2191.0,405.0,500.0,1.0,0.7,607.0,37000.0,253484.0,434000.0,,28.4,captivity,medium,acceptable,224.779,407000.0,310.65
+2916,2936,Animalia,Chordata,Mammalia,Rodentia,Ctenodactylidae,Ctenodactylus,gundi,Gundi,319.0,,74.0,,1.9,1.0,70.0,29.9,,288.8,,5.8,captivity,small,acceptable,,,
+3027,3047,Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,libycus,Libyan jird,91.0,,26.0,30.0,5.0,,,5.33,45.0,100.0,,5.2,captivity,medium,acceptable,,,
+3105,3125,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Cynomys,ludovicianus,Black-tailed prairie dog,730.0,730.0,30.0,63.0,4.0,1.0,365.0,15.75,148.35,1125.0,0.0111,15.0,captivity,large,acceptable,2.358,1112.3,
+3047,3067,Animalia,Chordata,Mammalia,Rodentia,Muridae,Notomys,mitchellii,Mitchell's hopping mouse,73.0,90.0,37.0,30.0,3.3,,37.0,,,52.0,,5.3,captivity,small,acceptable,,,
+2604,2622,Animalia,Chordata,Mammalia,Monotremata,Ornithorhynchidae,Ornithorhynchus,anatinus,Duck-billed platypus,548.0,548.0,17.0,106.0,2.0,,365.0,,,1250.0,,22.6,captivity,small,acceptable,1.931,1030.3,307.15
+2795,2815,Animalia,Chordata,Mammalia,Primates,Lemuridae,Varecia,rubra,Red ruffed lemur,609.0,650.0,98.0,,2.2,,,109.73,,3601.3,,37.5,captivity,small,acceptable,,,
+2063,2078,Animalia,Chordata,Mammalia,Carnivora,Canidae,Chrysocyon,brachyurus,Maned wolf,730.0,,64.0,227.0,3.0,,,368.0,,21500.0,0.0116,16.8,captivity,medium,acceptable,,,
+2361,2379,Animalia,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,hipposideros,Lesser horseshoe bat,500.0,471.0,67.0,35.0,1.0,1.0,365.0,2.1,,4.6,,29.4,wild,large,acceptable,,,
+2863,2883,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Lemmus,lemmus,Norway lemming,24.0,44.0,19.0,15.0,7.0,2.5,26.0,3.8,,70.0,0.022,3.3,captivity,small,acceptable,1.071,80.0,310.95
+1993,2007,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Lama,glama,Llama,800.0,800.0,330.0,,1.0,1.0,,11000.0,,140000.0,,28.9,captivity,large,high,148.94,115000.0,311.45
+1890,1904,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,bison,American bison,912.0,912.0,274.0,259.0,1.0,1.0,452.0,20000.0,158000.0,630000.0,,33.5,captivity,large,high,,,311.85
+2842,2862,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Galea,spixii,Spix's yellow-toothed cavy,70.0,112.0,53.0,42.0,2.5,6.5,53.0,40.0,,450.0,,4.6,captivity,small,acceptable,,,
+2665,2684,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Callithrix,kuhlii,Wied's black-tufted-ear marmoset,477.0,382.0,144.0,,,,,,,342.0,,20.0,captivity,medium,acceptable,,,
+3011,3031,Animalia,Chordata,Mammalia,Rodentia,Muridae,Desmodillus,auricularis,Cape short-eared gerbil,,,29.0,33.0,3.3,,,3.12,,54.5,,6.1,captivity,small,acceptable,0.49,71.9,309.05
+2897,2917,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,maniculatus,Deer mouse,49.0,,24.0,22.0,5.0,3.0,27.0,2.0,9.2,20.5,0.0643,8.3,captivity,medium,acceptable,0.219,20.5,309.75
+2112,2127,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,leo,Lion,1095.0,1095.0,109.0,,3.0,1.0,649.0,1300.0,,175000.0,0.0035,28.0,captivity,large,acceptable,94.58,98000.0,311.05
+2025,2040,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rucervus,duvaucelii,Barasingha,1095.0,,250.0,,1.0,,,,,170000.0,,24.5,captivity,large,high,,,
+2346,2364,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,livingstonii,Comoro black flying fox,,,152.0,,1.0,,,137.0,,696.5,,15.0,captivity,medium,acceptable,,,
+2591,2609,Animalia,Chordata,Mammalia,Lagomorpha,Ochotonidae,Ochotona,hyperborea,Northern pika,203.0,,28.0,,3.0,,,9.6,,120.0,,9.4,captivity,small,acceptable,,,
+3053,3073,Animalia,Chordata,Mammalia,Rodentia,Muridae,Praomys,tullbergi,"Tullberg's praomys, or Tullberg's rock rat",82.0,75.0,24.0,25.0,3.5,4.0,24.0,2.7,10.5,30.0,,5.2,captivity,small,acceptable,,,
+1975,1989,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Redunca,fulvorufula,Mountain reedbuck,388.0,335.0,216.0,,1.0,1.1,353.0,3000.0,,30000.0,0.0093,15.0,captivity,small,acceptable,,,
+2962,2982,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Glirulus,japonicus,Japanese dormouse,145.0,,30.0,,4.0,1.5,,,,27.0,,7.0,captivity,tiny,acceptable,,,
+2964,2984,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Graphiurus,murinus,Woodland dormouse,,,24.0,,3.0,2.0,,3.5,,24.0,,6.9,captivity,medium,acceptable,0.225,38.4,
+2091,2106,Animalia,Chordata,Mammalia,Carnivora,Felidae,Acinonyx,jubatus,Cheetah,456.0,456.0,88.0,107.0,3.0,0.7,537.0,489.0,1940.0,53500.0,,20.5,captivity,large,high,61.77,38446.1,312.15
+2865,2885,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Mesocricetus,auratus,Golden hamster,48.0,48.0,16.0,20.0,9.0,3.0,,2.45,22.93,105.0,0.0574,3.9,captivity,medium,acceptable,0.69,108.2,311.25
+2711,2731,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Colobus,angolensis,Angolan colobus,1642.0,730.0,191.0,,1.0,,,,,8625.0,,35.3,captivity,medium,acceptable,,,
+1887,1901,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Antidorcas,marsupialis,Springbok,213.0,400.0,168.0,121.0,1.0,1.0,365.0,4160.0,,39000.0,0.0137,19.8,captivity,large,high,,,312.55
+2481,2499,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Marmosa,robinsoni,Robinson's mouse opossum,279.0,365.0,14.0,68.0,10.0,1.5,134.0,0.1,11.0,75.0,,5.0,captivity,small,acceptable,0.547,122.0,307.15
+2141,2156,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Mungos,mungo,Banded mongoose,289.0,,60.0,,2.5,2.0,365.0,39.0,,1331.5,,17.4,captivity,large,high,,,
+2614,2632,Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Perameles,gunnii,Eastern barred bandicoot,91.0,152.0,12.0,60.0,2.0,3.8,65.0,0.25,136.7,766.0,0.0142,6.1,captivity,medium,acceptable,1.902,695.0,308.35
+1991,2005,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus,bactrianus,Bactrian camel,1278.0,1278.0,395.0,,1.0,0.5,730.0,36000.0,,475000.0,,35.4,captivity,large,high,,,
+2264,2280,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,edeni,Bryde's whale,3104.0,3104.0,376.0,274.0,1.0,0.5,,1000000.0,,16000000.0,,72.0,wild,medium,acceptable,,,
+2223,2238,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Bassaricyon,alleni,Allen's olingo,650.0,594.0,75.0,,,,,,,1235.0,,25.2,captivity,small,acceptable,,,
+1888,1902,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Antilope,cervicapra,Blackbuck,466.0,,168.0,60.0,1.0,1.9,231.0,3850.0,,37500.0,,23.9,captivity,large,high,,,
+3200,3220,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Neomys,fodiens,Eurasian water shrew,106.0,106.0,20.0,32.0,5.0,1.8,71.0,0.78,10.0,15.0,,3.1,captivity,small,acceptable,0.328,16.0,310.45
+2723,2743,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,nigra,Celebes crested macaque,1490.0,,176.0,365.0,1.0,0.7,540.0,461.0,,7965.0,,34.0,captivity,medium,acceptable,,,
+2069,2084,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,vetulus,Hoary fox,276.0,274.0,56.0,,3.0,,365.0,,,5350.0,,12.6,captivity,tiny,acceptable,,,
+2071,2086,Animalia,Chordata,Mammalia,Carnivora,Canidae,Nyctereutes,procyonoides,Raccoon dog,304.0,304.0,61.0,47.0,6.0,1.0,365.0,75.0,825.0,6500.0,,16.6,captivity,medium,acceptable,,,311.15
+2968,2988,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Chaetodipus,formosus,Long-tailed pocket mouse,365.0,365.0,28.0,25.0,5.0,1.0,,1.0,8.0,19.0,,7.1,captivity,small,acceptable,0.103,15.1,
+1905,1919,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,falconeri,Markhor,745.0,,163.0,167.0,2.0,,,,,41000.0,,19.1,captivity,large,high,,,
+1960,1974,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oryx,leucoryx,Arabian oryx,794.0,550.0,243.0,137.0,1.0,1.0,,,,121350.0,,20.8,captivity,large,high,,,311.65
+2523,2541,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Petrogale,concinna,Nabarlek,430.0,,30.0,175.0,1.0,1.0,171.0,,300.0,1250.0,,11.7,captivity,small,acceptable,,,
+2157,2172,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Galictis,cuja,Lesser grison,,,,,,,,,,1000.0,,10.2,captivity,small,acceptable,,,
+2409,2427,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Plecotus,austriacus,Gray big-eared bat,352.0,365.0,65.0,,,,,,,12.0,,25.5,wild,medium,acceptable,,,
+2764,2784,Animalia,Chordata,Mammalia,Primates,Galagidae,Otolemur,crassicaudatus,"Brown greater galago, or Greater galago",495.0,639.0,130.0,138.0,1.5,1.0,119.0,43.2,500.0,1094.5,,22.7,captivity,medium,acceptable,2.595,993.5,309.75
+2519,2537,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Onychogalea,fraenata,"Bridled nail-tail wallaby, or Ridled nail-tailed wallaby",185.0,,23.0,165.0,1.0,,125.0,,1900.0,5500.0,,7.4,captivity,small,acceptable,,,
+2365,2383,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Chalinolobus,gouldii,Gould's wattled bat,365.0,,92.0,,1.4,1.0,,,,15.87,,7.8,wild,large,acceptable,,,
+3115,3135,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Heliosciurus,rufobrachium,Red-legged sun squirrel,,,,,2.7,,,,,326.5,,8.7,captivity,small,acceptable,0.744,230.0,309.15
+1982,1996,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Taurotragus,derbianus,Giant eland,1107.0,1461.0,264.0,,1.0,,,,,680000.0,,20.3,captivity,medium,acceptable,,,
+3051,3071,Animalia,Chordata,Mammalia,Rodentia,Muridae,Phloeomys,pallidus,Northern Luzon slender-tailed cloud rat,,,,,,,,,,1744.0,,10.7,captivity,medium,acceptable,,,
+2567,2585,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,europaeus,Western European hedgehog,253.0,253.0,30.0,42.0,1.5,1.6,,14.7,235.0,750.0,,11.7,captivity,medium,acceptable,2.434,1213.5,307.15
+2229,2244,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Potos,flavus,Kinkajou,820.0,550.0,115.0,119.0,1.0,1.0,365.0,175.0,,3000.0,0.0102,38.4,captivity,medium,acceptable,4.294,2318.0,309.25
+2911,2931,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Sigmodon,hispidus,Hispid cotton rat,40.0,40.0,27.0,15.0,5.0,6.7,,6.2,19.8,185.0,0.0362,5.2,captivity,medium,acceptable,1.085,159.6,311.25
+2356,2374,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Rousettus,aegyptiacus,Egyptian rousette,365.0,365.0,116.0,122.0,1.0,2.0,,21.06,73.8,125.0,0.0149,22.9,wild,large,acceptable,0.684,146.0,307.95
+2801,2821,Animalia,Chordata,Mammalia,Primates,Lorisidae,Nycticebus,coucang,Slow loris,578.0,,188.0,177.0,1.0,1.0,492.0,48.2,520.0,890.5,,25.8,captivity,medium,acceptable,1.504,1128.6,308.55
+2433,2451,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,flavipes,Yellow-footed antechinus,345.0,,25.0,90.0,7.0,1.0,365.0,,,45.0,0.0351,3.9,captivity,small,acceptable,0.252,46.5,308.15
+2973,2993,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Dipodomys,merriami,Merriam's kangaroo rat,102.0,,28.0,20.0,2.3,1.6,54.0,2.92,17.6,42.0,0.0368,9.7,captivity,medium,acceptable,0.246,37.6,310.15
+2778,2798,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hylobates,muelleri,Borneo gibbon,2849.0,1825.0,207.0,,1.0,,1080.0,,,5765.0,,60.0,captivity,medium,acceptable,,,
+2404,2422,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Perimyotis,subflavus,Eastern pipistrelle,212.0,,44.0,,2.0,1.0,365.0,0.94,5.2,7.5,,14.8,wild,medium,acceptable,,,
+2145,2160,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,hyaena,Striped hyena,800.0,800.0,90.0,279.0,2.5,,237.0,700.0,,40000.0,,25.0,captivity,medium,acceptable,31.954,34300.0,310.15
+2441,2459,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,geoffroii,Western quoll,365.0,,16.0,158.0,6.0,1.0,365.0,0.011,,890.0,,6.2,captivity,small,acceptable,2.991,1326.7,309.35
+1974,1988,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Redunca,arundinum,Southern reedbuck,,,224.0,,1.0,,376.0,4500.0,,58000.0,,16.8,captivity,small,acceptable,,,
+1935,1949,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,subgutturosa,Goitered gazelle,646.0,746.0,175.0,106.0,1.3,1.0,,2625.0,13500.0,48500.0,,16.3,captivity,large,high,,,312.65
+2633,2651,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus,terrestris,Brazilian tapir,1095.0,1095.0,398.0,289.0,1.0,,,6000.0,86260.0,250000.0,,39.6,captivity,large,high,,,309.65
+2201,2216,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Neophoca,cinerea,Australian sea lion,1095.0,2191.0,258.0,570.0,1.0,0.69,540.0,7075.0,59724.0,190000.0,,24.1,captivity,small,acceptable,,,
+1970,1984,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Procapra,gutturosa,Mongolian gazelle,532.0,,185.0,,1.3,1.0,365.0,2900.0,,30000.0,,12.0,captivity,small,acceptable,,,
+2351,2369,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,pumilus,Little golden-mantled flying fox,,,,,,2.0,,,,200.0,,17.2,captivity,medium,acceptable,0.705,194.2,309.25
+2099,2114,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,silvestris,Wild cat,304.0,304.0,64.0,87.0,3.7,2.3,114.0,100.0,643.0,5500.0,0.0113,19.0,captivity,medium,acceptable,,,
+2083,2098,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,rueppellii,Ruppell's sand fox,365.0,,53.0,,2.0,,,,,3200.0,,14.3,captivity,medium,acceptable,,,
+2771,2791,Animalia,Chordata,Mammalia,Primates,Hominidae,Pan,troglodytes,Chimpanzee,3376.0,2920.0,229.0,1111.0,1.0,0.2,840.0,1821.0,8500.0,44983.5,0.0007,68.0,captivity,large,acceptable,,,308.85
+2235,2250,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Tremarctos,ornatus,Spectacled bear,1461.0,1461.0,228.0,90.0,1.5,,,320.0,,109250.0,,39.0,captivity,medium,acceptable,,,
+2014,2029,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Mazama,gouazoubira,Gray brocket,395.0,365.0,212.0,,1.0,,,919.0,,17000.0,,14.8,captivity,small,acceptable,,,
+3144,3164,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,granatensis,Red-tailed squirrel,,,,61.0,1.93,1.95,,9.5,,374.0,,11.5,captivity,tiny,acceptable,,,
+3098,3118,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callosciurus,erythraeus,Pallas's squirrel,,,48.0,,1.9,2.0,,,,272.0,,17.0,captivity,small,acceptable,,,
+2746,2766,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus,auratus,Javan langur,,,,,,,,,,9720.0,,31.1,captivity,medium,acceptable,,,
+2331,2349,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus,lineatus,White-lined broad-nosed bat,,,106.0,,1.0,2.0,,8.3,,22.0,,13.0,captivity,small,acceptable,0.25,21.9,309.55
+2526,2544,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Petrogale,xanthopus,Ringtailed rock wallaby,541.0,,31.0,344.0,1.1,,196.0,0.5,2500.0,6000.0,,14.4,captivity,medium,acceptable,,,
+2811,2831,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Pithecia,pithecia,Guianan saki,775.0,1460.0,158.0,122.0,1.0,1.0,319.0,,,1480.0,,36.0,captivity,large,high,,,
+2870,2890,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,guentheri,Guenther's vole,60.0,95.0,21.0,18.0,6.0,3.3,29.0,3.0,15.0,51.6,,3.9,captivity,small,acceptable,0.447,43.8,311.45
+2482,2500,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Marmosops,noctivagus,"White-bellied slender opossum, or Rio Napo mouse opossum",,,,,,,,,,21.0,,4.5,captivity,small,acceptable,,,
+2024,2039,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rangifer,tarandus,"Caribou, or Reindeer",662.0,680.0,228.0,,1.0,1.0,365.0,6500.0,,101250.0,0.0047,21.8,captivity,large,high,119.66,85000.0,310.35
+2987,3007,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Hystrix,africaeaustralis,Cape porcupine,375.0,390.0,94.0,77.0,2.1,1.7,379.0,351.0,,24000.0,,23.1,captivity,medium,acceptable,13.175,11300.0,310.65
+2667,2686,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Cebuella,pygmaea,Pygmy marmoset,684.0,638.0,125.0,91.0,2.0,,171.0,16.0,70.0,124.0,,18.6,captivity,large,high,0.599,110.7,308.35
+2279,2296,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Peponocephala,electra,Melon-headed whale,4290.0,2465.0,365.0,,1.0,,,,,206000.0,,47.0,wild,medium,acceptable,,,
+3191,3211,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Blarina,brevicauda,Northern short-tailed shrew,46.0,65.0,17.0,23.0,6.0,3.0,,1.34,,21.6,0.188,2.2,captivity,small,acceptable,0.344,20.9,
+1883,1897,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Aepyceros,melampus,Impala,456.0,395.0,198.0,167.0,1.0,1.0,365.0,5550.0,15900.0,52500.0,0.0043,25.6,captivity,large,high,,,
+2392,2410,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,sodalis,Indiana bat,357.0,,,,1.0,1.0,,4.53,,7.7,,20.0,wild,medium,acceptable,,,
+2573,2591,Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Procavia,capensis,Rock hyrax,500.0,500.0,215.0,116.0,3.0,1.0,365.0,205.0,500.0,3600.0,0.0112,14.8,captivity,medium,acceptable,4.954,2458.0,310.15
+2231,2246,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Common raccoon,365.0,365.0,63.0,91.0,4.0,1.0,365.0,80.0,1175.0,6000.0,0.0153,21.0,captivity,large,acceptable,10.428,4842.2,311.15
+2979,2999,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Perognathus,amplus,Arizona pocket mouse,,,,,,,,,,11.7,,5.9,captivity,small,acceptable,,,
+2348,2366,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,niger,Greater mascarene flying fox,,,,,1.0,,,,,456.3,,19.4,captivity,small,acceptable,,,
+2569,2587,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Paraechinus,aethiopicus,Desert hedgehog,,,37.0,50.0,3.0,1.0,,8.5,,188.0,,6.3,captivity,small,acceptable,0.63,451.5,307.35
+2437,2455,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,swainsonii,Dusky antechinus,330.0,,28.0,94.0,8.0,1.0,365.0,,15.0,41.0,,3.3,captivity,small,acceptable,0.351,66.9,309.15
+2744,2764,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Semnopithecus,vetulus,Purple-faced leaf monkey,1278.0,,211.0,250.0,1.0,0.4,784.0,432.33,1100.0,7081.8,,26.1,captivity,small,acceptable,,,
+3198,3218,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Myosorex,varius,Forest shrew,,,,22.0,3.0,2.0,,1.0,,17.5,,2.1,captivity,small,acceptable,,,308.95
+2162,2177,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Ictonyx,striatus,Striped polecat,304.0,393.0,36.0,79.0,2.0,1.0,365.0,15.0,170.0,910.0,0.0361,14.0,captivity,tiny,acceptable,,,
+3001,3021,Animalia,Chordata,Mammalia,Rodentia,Muridae,Apodemus,flavicollis,Yellow-necked mouse,52.0,52.0,26.0,22.0,5.5,2.8,39.0,2.4,8.7,29.4,,4.5,captivity,small,acceptable,0.365,28.3,309.85
+3057,3077,Animalia,Chordata,Mammalia,Rodentia,Muridae,Pseudomys,fumeus,Smoky mouse,,,,,3.5,1.5,,,,70.0,,6.5,captivity,small,acceptable,,,
+2936,2956,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Jaculus,jaculus,Lesser Egyptian jerboa,327.0,137.0,38.0,51.0,3.0,1.5,91.0,2.0,20.0,55.0,,7.3,captivity,medium,acceptable,0.515,75.0,310.65
+2559,2577,Animalia,Chordata,Mammalia,Diprotodontia,Vombatidae,Lasiorhinus,latifrons,Southern hairy-nosed wombat,547.0,547.0,21.0,312.0,1.0,,365.0,0.5,3633.0,25500.0,,29.9,captivity,medium,acceptable,16.001,27348.2,308.45
+2839,2859,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,tschudii,Montane guinea pig,62.0,77.0,64.0,,1.9,5.0,,,,637.5,,6.3,captivity,small,acceptable,,,
+2534,2552,Animalia,Chordata,Mammalia,Diprotodontia,Petauridae,Gymnobelideus,leadbeateri,Leadbeater's possum,475.0,464.0,16.0,115.0,1.5,2.0,183.0,,34.0,127.0,,14.1,captivity,tiny,acceptable,0.574,166.0,308.15
+2370,2388,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,nilssonii,Northern bat,,,,,1.5,1.0,365.0,4.52,,13.0,,20.0,wild,medium,acceptable,,,
+3136,3156,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ratufa,bicolor,Black giant squirrel,1078.0,,32.0,,1.4,2.0,278.0,77.0,,2000.0,,19.0,captivity,tiny,acceptable,,,
+2630,2648,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Acrocodia,indica,Malayan tapir,1095.0,1095.0,392.0,183.0,1.0,0.5,730.0,6500.0,,250000.0,,36.5,captivity,medium,acceptable,,,309.95
+1951,1965,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Nanger,dama,Dama gazelle,109.0,,208.0,,1.0,,182.0,,,73000.0,,19.3,captivity,large,acceptable,,,312.35
+2009,2024,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Elaphurus,davidianus,Pere David's deer,821.0,1186.0,288.0,167.0,1.0,1.0,360.0,11000.0,,186500.0,,27.5,captivity,large,high,,,
+2470,2488,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Caluromys,philander,Bare-tailed woolly opossum,304.0,,24.0,100.0,4.5,2.0,166.0,0.2,11.0,350.0,,8.9,captivity,tiny,acceptable,,,
+2884,2904,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Neotoma,floridana,Eastern woodrat,95.0,101.0,33.0,22.0,3.5,2.5,83.0,13.43,45.9,291.0,0.0654,8.6,captivity,medium,acceptable,,,
+1898,1912,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bubalus,bubalis,Water buffalo,502.0,,311.0,,1.375,1.0,365.0,37500.0,,725000.0,,34.9,captivity,medium,acceptable,,,311.25
+2181,2196,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,lutreola,European mink,323.0,323.0,54.0,57.0,4.0,,365.0,8.0,,590.0,,8.4,captivity,medium,acceptable,,,
+2189,2204,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Taxidea,taxus,American badger,183.0,441.0,41.0,56.0,3.0,0.7,365.0,93.5,3000.0,8000.0,,25.0,captivity,small,acceptable,15.062,9000.0,311.15
+3045,3065,Animalia,Chordata,Mammalia,Rodentia,Muridae,Notomys,alexis,Spinifex hopping mouse,75.0,75.0,35.0,30.0,3.9,,33.0,2.83,12.5,35.0,0.0326,6.4,captivity,medium,acceptable,0.252,32.3,311.15
+2431,2449,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,agilis,Agile antechinus,330.0,285.0,27.0,90.0,10.0,,365.0,,10.0,18.0,,4.7,captivity,tiny,acceptable,,,
+2625,2643,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,White rhinoceros,1643.0,1643.0,515.0,365.0,1.0,0.4,1009.0,52500.0,,2175000.0,,45.0,captivity,large,high,,,
+3060,3080,Animalia,Chordata,Mammalia,Rodentia,Muridae,Pseudomys,shortridgei,Heath mouse,335.0,335.0,,,3.0,1.0,,,,64.0,,6.0,captivity,small,acceptable,,,
+2850,2870,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Alticola,semicanus,Mongolian silver vole,,,,,,,,,,36.0,,3.8,captivity,small,acceptable,,,
+2167,2182,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,americana,American marten,365.0,365.0,28.0,46.0,3.0,1.0,365.0,30.0,392.0,884.0,,17.8,captivity,tiny,acceptable,3.579,966.5,311.15
+2905,2925,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Podomys,floridanus,Florida mouse,40.0,,23.0,25.0,2.5,,33.0,2.4,12.5,32.0,,7.4,captivity,small,acceptable,0.288,30.8,
+2147,2162,Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Conepatus,chinga,Molina's hog-nosed skunk,,,,,,,,,,3400.0,,10.0,captivity,small,acceptable,,,
+2224,2239,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Bassaricyon,gabbii,Olingo,685.0,594.0,73.0,,1.0,,,55.0,,1235.0,,21.8,captivity,tiny,acceptable,,,
+2518,2536,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,rufus,Red kangaroo,517.0,806.0,33.0,360.0,1.0,,241.0,0.784,5000.0,55000.0,0.0075,25.0,captivity,large,high,31.353,28500.0,309.05
+2458,2476,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus,harrisii,Tasmanian devil,730.0,730.0,26.0,243.0,3.0,1.0,365.0,0.0235,200.0,6500.0,,13.0,captivity,medium,acceptable,8.664,6126.8,308.95
+2396,2414,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,volans,Long-legged myotis,152.0,,,,1.0,1.0,365.0,2.01,,7.0,,21.0,wild,medium,acceptable,,,
+2381,2399,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,emarginatus,Geoffroy's bat,456.0,456.0,,,1.0,1.0,365.0,,,11.0,,22.7,wild,medium,acceptable,,,
+2985,3005,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Atherurus,africanus,African brush-tailed porcupine,,,106.0,,1.5,2.5,,150.0,,2750.0,,22.9,captivity,small,acceptable,,,
+2067,2082,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,gymnocercus,Pampas fox,304.0,,57.0,,4.0,,365.0,,,8500.0,,13.7,captivity,small,acceptable,,,
+3041,3061,Animalia,Chordata,Mammalia,Rodentia,Muridae,Mus,minutoides,"Southern African pygmy mouse, or Pygmy mouse",60.0,77.0,20.0,21.0,4.3,4.0,31.0,0.97,3.3,7.2,0.0832,4.3,captivity,medium,acceptable,0.129,8.0,309.45
+2961,2981,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Eliomys,quercinus,Garden dormouse,365.0,365.0,23.0,30.0,5.0,1.2,,,,82.5,0.0409,5.5,captivity,small,acceptable,,,
+1913,1927,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,dorsalis,Bay duiker,578.0,,236.0,,1.0,,,1610.0,,11600.0,,17.5,captivity,small,acceptable,,,
+2845,2865,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,lanigera,Long-tailed chinchilla,240.0,240.0,111.0,,2.0,2.0,,35.0,,642.5,,17.2,captivity,large,acceptable,1.31,436.7,307.85
+1990,2004,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,strepsiceros,Greater kudu,517.0,,228.0,183.0,1.0,1.0,365.0,15000.0,,217500.0,,23.5,captivity,large,high,,,312.05
+2386,2404,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,lucifugus,Little brown bat,210.0,210.0,55.0,25.0,1.0,1.0,365.0,1.96,,10.0,0.116,34.0,wild,medium,acceptable,0.051,5.8,305.15
+2354,2372,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,vampyrus,Large flying fox,,,,,1.0,1.0,,,,872.0,,20.9,captivity,medium,acceptable,4.486,1024.3,310.05
+3003,3023,Animalia,Chordata,Mammalia,Rodentia,Muridae,Apodemus,speciosus,Large Japanese field mouse,,,,,4.5,,,,,44.0,,5.3,captivity,small,acceptable,,,
+2998,3018,Animalia,Chordata,Mammalia,Rodentia,Muridae,Acomys,wilsoni,Wilson's spiny mouse,,,39.0,,2.3,3.5,,3.49,10.0,20.0,,5.6,captivity,small,acceptable,,,
+3111,3131,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Funisciurus,pyrropus,Fire-footed rope squirrel,,,,,1.8,,,,,271.7,,9.5,captivity,tiny,acceptable,,,
+2107,2122,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,canadensis,Canada lynx,498.0,573.0,63.0,152.0,3.5,1.0,365.0,204.0,,10100.0,,26.8,captivity,medium,acceptable,,,
+2315,2333,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida,brasiliensis,Brazilian free-tailed bat,273.0,547.0,78.0,,1.0,1.0,365.0,2.8,,12.5,0.112,12.0,captivity,tiny,acceptable,0.117,13.3,309.15
+1886,1900,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ammotragus,lervia,Aoudad,335.0,,149.0,122.0,1.2,2.0,229.0,4500.0,,92500.0,0.0053,21.7,captivity,large,acceptable,,,
+3156,3176,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sundasciurus,tenuis,Slender squirrel,,,,,3.0,,,,,75.0,,10.0,captivity,small,acceptable,,,
+3132,3152,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Poliocitellus,franklinii,Franklin's ground squirrel,327.0,327.0,28.0,42.0,7.5,1.0,,9.0,,459.0,,7.2,captivity,small,acceptable,2.19,607.0,
+3036,3056,Animalia,Chordata,Mammalia,Rodentia,Muridae,Micaelamys,namaquensis,"Namaqua rock rat, or Rock mouse",,,22.0,24.0,3.8,2.0,,2.5,12.5,47.6,,4.7,captivity,small,acceptable,0.292,62.6,309.95
+2852,2872,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Arvicola,amphibius,European water vole,51.0,45.0,21.0,14.0,5.1,3.2,32.0,5.0,42.0,120.0,0.0573,2.5,captivity,tiny,acceptable,0.613,94.7,310.65
+2847,2867,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Lagidium,viscacia,Mountain viscacha,,,134.0,,1.5,,,260.0,,1540.0,,19.5,captivity,small,acceptable,,,
+2168,2183,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,flavigula,Yellow-throated marten,1263.0,,150.0,,2.5,,182.0,57.5,,2500.0,,16.0,captivity,medium,acceptable,,,
+2202,2217,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Otaria,flavescens,Southern sea lion,1461.0,2191.0,357.0,365.0,1.0,1.0,365.0,12500.0,,207500.0,,29.0,captivity,small,acceptable,,,
+2151,2166,Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Spilogale,putorius,Eastern spotted skunk,152.0,152.0,31.0,50.0,5.0,1.5,243.0,9.5,160.0,600.0,0.0311,10.5,captivity,small,acceptable,1.674,624.0,309.55
+3192,3212,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Blarina,hylophaga,Elliot's short-tailed shrew,84.0,42.0,23.0,30.0,6.5,1.5,,,14.5,14.5,,2.8,captivity,small,acceptable,,,
+3171,3191,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Xerospermophilus,tereticaudus,Round-tailed ground squirrel,325.0,325.0,28.0,39.0,5.4,1.0,,3.9,75.0,163.3,,8.9,captivity,tiny,acceptable,0.501,125.1,309.45
+2669,2688,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Leontocebus,nigricollis,Black-mantled tamarin,850.0,,140.0,82.0,1.8,2.9,251.0,43.5,175.0,519.2,0.0079,20.2,captivity,tiny,acceptable,,,
+2661,2680,Animalia,Chordata,Mammalia,Primates,Atelidae,Lagothrix,lagothricha,Humboldt's woolly monkey,2555.0,1520.0,223.0,352.0,1.0,0.5,639.0,300.0,,7650.0,,32.0,captivity,medium,acceptable,,,
+3034,3054,Animalia,Chordata,Mammalia,Rodentia,Muridae,Mesembriomys,gouldii,Black-footed tree rat,71.0,,44.0,47.0,2.0,4.0,,34.9,440.5,900.0,0.0327,7.8,captivity,small,acceptable,,,
+2184,2199,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,putorius,European polecat,312.0,322.0,42.0,63.0,7.5,1.5,140.0,9.5,,809.0,0.0328,11.1,captivity,large,acceptable,,,
+2294,2311,Animalia,Chordata,Mammalia,Cetacea,Iniidae,Inia,geoffrensis,"Amazon river dolphin, or Amazon dolphin",1826.0,1826.0,287.0,,1.0,,,6800.0,,84000.0,,31.3,captivity,tiny,acceptable,,,
+3056,3076,Animalia,Chordata,Mammalia,Rodentia,Muridae,Pseudomys,chapmani,Western pebble-mound mouse,,,,,,,,,,12.0,,6.8,captivity,small,acceptable,,,
+2520,2538,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Onychogalea,unguifera,Northern nail-tailed wallaby,,,,,1.0,,,,,5800.0,,5.5,captivity,small,acceptable,,,
+1932,1946,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,leptoceros,Rhim gazelle,157.0,,176.0,,1.0,,,4640.0,,48500.0,,14.6,captivity,medium,acceptable,,,
+2586,2604,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Sylvilagus,floridanus,Eastern cottontail,123.0,,30.0,24.0,5.0,3.9,30.0,40.0,118.5,1150.0,0.0243,9.8,captivity,small,acceptable,,,
+3128,3148,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Petaurista,leucogenys,Japanese giant flying squirrel,,,74.0,,,,,5.0,,1650.0,,19.2,captivity,small,acceptable,,,
+2058,2073,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic dog,510.0,510.0,63.0,,6.0,,,,,40000.0,0.0244,27.0,captivity,large,acceptable,,,
+2530,2548,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Thylogale,stigmatica,Red-legged pademelon,338.0,,29.0,252.0,1.0,,185.0,,,4100.0,,9.7,captivity,small,acceptable,,,
+2154,2169,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Arctonyx,collaris,Hog badger,,,42.0,104.0,3.0,,,58.0,,10500.0,,15.8,captivity,small,acceptable,,,
+2691,2711,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Allochrocebus,lhoesti,L'hoest's monkey,,,,,1.0,0.8,485.0,,,4700.0,,24.1,captivity,medium,acceptable,,,
+2317,2335,Animalia,Chordata,Mammalia,Chiroptera,Mystacinidae,Mystacina,tuberculata,New Zealand lesser short-tailed bat,,,,,1.0,1.0,,3.2,,23.5,,7.6,captivity,small,acceptable,,,
+2862,2882,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Lasiopodomys,brandtii,Brandt's vole,61.0,,,,6.0,2.7,,1.9,,40.0,,4.1,captivity,small,acceptable,0.428,40.2,
+3050,3070,Animalia,Chordata,Mammalia,Rodentia,Muridae,Phloeomys,cumingi,Slender-tailed cloud rat,,,,,1.0,,,,,1750.0,,13.6,captivity,small,acceptable,,,
+2043,2058,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,barbatus,Bearded pig,362.0,,122.0,,4.0,1.0,,,,102750.0,,16.2,captivity,medium,acceptable,,,
+2800,2820,Animalia,Chordata,Mammalia,Primates,Lorisidae,Loris,tardigradus,"Red slender loris, or Slender loris",380.0,365.0,166.0,150.0,1.3,1.5,288.0,11.0,139.0,238.2,,21.6,captivity,small,acceptable,0.714,284.0,308.65
+2597,2615,Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Elephantulus,rozeti,North African elephant shrew,,,76.0,,2.5,2.0,,,,48.0,,7.2,captivity,small,acceptable,0.288,49.0,310.25
+2644,2663,Animalia,Chordata,Mammalia,Primates,Aotidae,Aotus,azarae,Azara's night monkey,,,,234.0,1.0,1.0,365.0,,,1230.0,,30.0,captivity,small,acceptable,,,
+2100,2115,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,colocolo,Colocolo,,,,,2.5,,,,,2950.0,,19.6,captivity,small,acceptable,,,
+2501,2519,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Dorcopsis,luctuosa,Gray dorcopsis,450.0,,,,1.0,,191.0,,,3570.0,,13.9,captivity,small,acceptable,,,
+2785,2805,Animalia,Chordata,Mammalia,Primates,Indriidae,Propithecus,verreauxi,Verreaux's sifaka,912.0,912.0,148.0,150.0,1.0,1.0,537.0,72.25,,5000.0,,31.0,wild,medium,acceptable,3.738,3350.0,309.15
+3148,3168,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,niger,Eastern fox squirrel,353.0,353.0,44.0,84.0,3.0,1.0,,15.0,,800.0,0.018,16.0,captivity,tiny,acceptable,,,
+2190,2205,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Vormela,peregusna,Marbled polecat,91.0,,61.0,30.0,5.76,,365.0,,,542.5,,8.8,captivity,small,acceptable,,,
+1966,1980,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,dalli,Dall's sheep,684.0,639.0,173.0,129.0,1.0,1.0,365.0,2819.0,,73100.0,,19.6,captivity,medium,acceptable,,,
+1985,1999,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,angasii,Nyala,452.0,,224.0,213.0,1.0,1.2,295.0,5232.5,,120000.0,,23.0,captivity,medium,acceptable,,,
+3017,3037,Animalia,Chordata,Mammalia,Rodentia,Muridae,Gerbillus,perpallidus,Pale gerbil,93.0,,20.0,,4.5,,,2.24,17.2,50.0,,5.5,captivity,medium,acceptable,0.261,56.3,
+2731,2751,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Mandrillus,leucophaeus,Drill,1277.0,,179.0,487.0,1.0,0.8,448.0,772.0,,18250.0,,39.0,captivity,medium,acceptable,,,
+3196,3216,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura,suaveolens,Lesser shrew,175.0,365.0,27.0,25.0,4.0,3.5,,0.53,4.0,7.7,0.0953,2.8,captivity,small,acceptable,0.112,6.9,308.25
+2123,2138,Animalia,Chordata,Mammalia,Carnivora,Felidae,Puma,yagouaroundi,Jaguarundi,803.0,,73.0,,2.0,2.0,182.0,,,7000.0,,18.6,captivity,small,acceptable,9.69,8400.0,311.55
+3155,3175,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sundasciurus,lowii,Low's squirrel,,,,,2.5,,,,,67.0,,11.1,captivity,small,acceptable,,,
+2110,2125,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,365.0,730.0,65.0,65.0,3.0,0.9,365.0,265.0,1190.0,8600.0,0.0068,32.3,captivity,medium,acceptable,23.446,9400.0,
+2647,2666,Animalia,Chordata,Mammalia,Primates,Aotidae,Aotus,vociferans,Noisy night monkey,,,,,1.0,,,,,873.0,,22.1,captivity,small,acceptable,,,
+2030,2045,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rusa,unicolor,Sambar,650.0,,232.0,213.0,1.0,1.0,,10000.0,,185000.0,,26.4,captivity,large,acceptable,,,
+2541,2559,Animalia,Chordata,Mammalia,Diprotodontia,Phalangeridae,Spilocuscus,maculatus,"Common spotted cuscus, or Spotted cuscus",222.0,243.0,13.0,240.0,2.0,,365.0,,1700.0,3500.0,,17.0,captivity,tiny,acceptable,6.27,4250.0,307.85
+2923,2943,Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,cristata,Crested agouti,,,,,2.0,,,,,2650.0,,14.0,captivity,tiny,acceptable,,,
+2894,2914,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,eremicus,Cactus mouse,129.0,,26.0,25.0,2.6,3.5,39.0,2.33,,25.0,,7.4,captivity,medium,acceptable,0.173,21.0,309.75
+2714,2734,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Erythrocebus,patas,Patas monkey,956.0,1400.0,167.0,162.0,1.0,1.0,357.0,504.5,1950.0,7750.0,,30.0,captivity,medium,acceptable,5.958,3000.0,312.45
+3153,3173,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Spermophilus,pygmaeus,Little ground squirrel,,,27.0,,7.1,1.0,,,,136.0,,7.1,captivity,small,acceptable,,,
+2398,2416,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Nyctalus,leisleri,Lesser noctule,,,,,1.5,1.0,365.0,,,16.0,,16.0,wild,medium,acceptable,,,
+2948,2968,Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Thrichomys,apereoides,"Common punare, or Brazilian spiny rat",178.0,,94.0,46.0,3.1,2.5,97.0,21.1,,373.5,,7.0,captivity,small,acceptable,1.153,323.0,310.75
+2527,2545,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Setonix,brachyurus,Quokka,252.0,389.0,26.0,190.0,1.0,1.4,365.0,0.404,500.0,3500.0,0.0081,13.8,captivity,small,acceptable,4.695,2702.3,
+2001,2016,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis,porcinus,Hog deer,304.0,,232.0,182.0,1.0,,,2532.0,,43000.0,,22.9,captivity,medium,acceptable,,,
+2017,2032,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus,muntjak,Indian muntjac,272.0,332.0,210.0,61.0,1.17,,241.0,1223.0,,21000.0,,18.8,captivity,medium,acceptable,,,
+3008,3028,Animalia,Chordata,Mammalia,Rodentia,Muridae,Conilurus,penicillatus,Brush-tailed rabbit rat,,,35.0,31.0,2.0,,,,,144.0,,4.5,captivity,small,acceptable,0.908,213.2,309.05
+2119,2134,Animalia,Chordata,Mammalia,Carnivora,Felidae,Prionailurus,rubiginosus,Rusty-spotted cat,,,68.0,,2.5,,,,,1350.0,,17.9,captivity,medium,acceptable,,,
+2683,2703,Animalia,Chordata,Mammalia,Primates,Cebidae,Cebus,albifrons,White-fronted capuchin,1310.0,1310.0,158.0,274.0,1.0,0.7,547.0,233.0,,2467.5,,40.4,captivity,medium,acceptable,,,
+3220,3240,Animalia,Chordata,Mammalia,Soricomorpha,Talpidae,Scalopus,aquaticus,Eastern mole,335.0,335.0,36.0,36.0,3.0,1.0,,5.355,,90.0,,6.2,wild,medium,acceptable,0.378,48.0,309.15
+2020,2035,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Odocoileus,virginianus,White-tailed deer,309.0,417.0,198.0,129.0,2.0,1.0,304.0,3000.0,36000.0,87000.0,0.007,23.0,captivity,large,high,123.447,61862.5,312.15
+2472,2490,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Chironectes,minimus,Water opossum (yapok),304.0,,,,4.0,,365.0,,,700.0,,3.1,captivity,small,acceptable,2.793,940.5,308.15
+1959,1973,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oryx,gazella,Gemsbok,550.0,550.0,270.0,,1.0,1.3,,12000.0,,170000.0,,23.8,captivity,large,high,,,312.05
+2101,2116,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,geoffroyi,Geoffroy's cat,479.0,,75.0,68.0,2.0,1.3,240.0,93.2,,4000.0,,23.0,captivity,medium,acceptable,,,
+3123,3143,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,vancouverensis,Vancouver marmot,1186.0,,30.0,,3.3,0.5,,,,4750.0,,12.1,captivity,medium,acceptable,,,
+2376,2394,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,bechsteinii,Bechstein's bat,,,,,1.0,1.0,365.0,,,10.5,,21.0,wild,medium,acceptable,,,
+2292,2309,Animalia,Chordata,Mammalia,Cetacea,Hyperoodontidae,Mesoplodon,europaeus,Gervais's beaked whale,,,,,,,,,,5600000.0,,48.0,wild,medium,acceptable,,,
+2113,2128,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,onca,Jaguar,730.0,730.0,99.0,126.0,2.0,0.5,365.0,820.0,5033.5,81150.0,0.0072,28.0,captivity,large,high,62.419,50400.0,310.15
+2405,2423,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,kuhlii,Kuhl's pipistrelle,,,,60.0,1.5,,365.0,,,6.0,,8.0,wild,medium,acceptable,,,
+2678,2697,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,labiatus,Red-chested mustached tamarin,,,147.0,227.0,1.9,1.2,299.0,42.33,,501.3,,20.5,captivity,medium,acceptable,,,
+3187,3207,Animalia,Chordata,Mammalia,Sirenia,Trichechidae,Trichechus,inunguis,Amazonian manatee,1096.0,1096.0,328.0,548.0,1.0,0.5,,12500.0,67500.0,480000.0,,40.0,captivity,small,acceptable,55.015,167594.0,
+2397,2415,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,yumanensis,Yuma myotis,365.0,365.0,,,1.0,1.0,365.0,0.79,,6.25,,14.0,wild,medium,acceptable,0.047,5.0,
+2741,2761,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Rhinopithecus,roxellana,Golden snub-nosed monkey,,,199.0,,1.0,,,,,14750.0,,29.5,captivity,small,acceptable,,,
+2680,2699,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,midas,Midas tamarin,608.0,,127.0,71.0,2.0,1.4,207.0,40.0,,553.8,,21.0,captivity,large,high,,,
+2716,2736,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,arctoides,Stump-tailed macaque,1186.0,2099.0,177.0,299.0,1.0,0.6,558.0,479.0,2300.0,9275.0,,29.2,captivity,medium,acceptable,,,
+2252,2267,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Paguma,larvata,Masked palm civet,,,,,2.3,2.0,182.0,,,4300.0,,27.4,captivity,small,acceptable,,,
+2619,2637,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,caballus,Horse,914.0,973.0,337.0,,1.0,1.0,548.0,38000.0,,300000.0,,57.0,captivity,large,high,,,311.45
+2476,2494,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,virginiana,Virginia opossum,184.0,243.0,12.0,102.0,15.0,2.0,122.0,0.147,142.5,3000.0,0.0129,6.6,captivity,medium,acceptable,5.299,2846.6,308.15
+2345,2363,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,hypomelanus,Variable flying fox,378.0,365.0,156.0,,1.0,1.0,,,,450.0,,20.3,captivity,medium,acceptable,1.618,520.8,308.85
+2081,2096,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,macrotis,Kit fox,365.0,365.0,54.0,,4.0,,365.0,40.0,,2500.0,,15.8,captivity,small,acceptable,4.928,1769.0,311.15
+2323,2341,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodus,rotundus,Vampire bat,285.0,285.0,189.0,274.0,1.0,2.0,289.0,8.0,,33.2,0.0294,29.2,captivity,medium,acceptable,0.194,29.4,308.15
+2715,2735,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Lophocebus,albigena,Gray-cheeked mangabey,1460.0,,181.0,233.0,1.0,0.4,584.0,425.0,2170.0,9317.5,,36.0,captivity,small,acceptable,,,
+2021,2036,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Ozotoceros,bezoarticus,Pampas deer,365.0,,213.0,167.0,1.0,1.0,330.0,2100.0,,32500.0,,21.9,captivity,tiny,acceptable,,,310.65
+2835,2855,Animalia,Chordata,Mammalia,Rodentia,Castoridae,Castor,canadensis,American beaver,639.0,639.0,128.0,,3.5,1.0,365.0,430.0,,20250.0,,23.4,captivity,small,acceptable,,,
+2550,2568,Animalia,Chordata,Mammalia,Diprotodontia,Potoroidae,Bettongia,penicillata,Woylie,180.0,,18.0,150.0,1.0,3.0,102.0,0.29,500.0,1500.0,,18.8,captivity,medium,acceptable,3.132,1018.0,310.35
+3186,3206,Animalia,Chordata,Mammalia,Sirenia,Dugongidae,Dugong,dugon,Dugong,3470.0,3470.0,374.0,548.0,1.0,0.2,1521.0,27500.0,,360000.0,,73.0,captivity,small,acceptable,,,306.15
+2313,2331,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Molossus,molossus,Pallas's mastiff bat,103.0,,108.0,,1.0,2.0,,3.49,,14.0,,5.6,wild,tiny,acceptable,,,
+3019,3039,Animalia,Chordata,Mammalia,Rodentia,Muridae,Grammomys,dolichurus,Woodland mouse,73.0,,24.0,25.0,3.0,,38.0,4.2,,60.0,0.0245,4.4,captivity,small,acceptable,,,
+2391,2409,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,nigricans,Black myotis,98.0,98.0,55.0,38.0,1.0,2.0,,1.0,3.7,4.2,,7.0,wild,medium,acceptable,0.027,3.7,307.15
+2322,2340,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Carollia,perspicillata,Seba's short-tailed bat,258.0,258.0,95.0,,1.0,2.0,159.0,5.0,,15.0,0.0347,17.0,captivity,large,high,0.24,14.9,309.55
+3075,3095,Animalia,Chordata,Mammalia,Rodentia,Muridae,Zyzomys,palatilis,Carpentarian rock rat,,,,,,,,,,123.0,,6.2,captivity,small,acceptable,,,
+3029,3049,Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,persicus,Persian jird,,,26.0,19.0,4.3,,,5.0,,100.0,,6.0,captivity,small,acceptable,,,
+2080,2095,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,lagopus,Arctic fox,304.0,304.0,52.0,51.0,9.0,1.0,365.0,70.0,,5200.0,,16.3,captivity,medium,acceptable,7.665,3600.0,311.75
+1904,1918,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,cylindricornis,East Caucasian tur,1019.0,914.0,161.0,182.0,1.2,1.0,,3787.5,,50000.0,,20.2,captivity,small,acceptable,,,
+2142,2157,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Suricata,suricatta,Meerkat,365.0,365.0,77.0,,4.0,1.0,365.0,29.0,,776.0,0.0161,20.6,captivity,large,high,1.729,850.0,309.45
+2837,2857,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,aperea,Brazilian guinea pig,74.0,77.0,63.0,17.0,2.5,5.0,,59.66,171.1,341.0,,6.0,captivity,large,high,,,
+2300,2317,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Phocoena,phocoena,Harbor porpoise,1055.0,1461.0,320.0,243.0,1.0,1.0,365.0,7000.0,,52500.0,0.0088,20.4,captivity,small,acceptable,107.675,28500.0,
+2049,2064,Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Tayassu,pecari,White-lipped peccary,548.0,548.0,158.0,50.0,2.0,,,700.0,,22000.0,,28.5,captivity,medium,acceptable,,,311.65
+3113,3133,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Glaucomys,sabrinus,Northern flying squirrel,210.0,,40.0,68.0,3.0,1.0,,5.5,39.74,149.0,0.0088,14.2,captivity,small,acceptable,,,
+3052,3072,Animalia,Chordata,Mammalia,Rodentia,Muridae,Pogonomys,macrourus,"Chestnut pogonomys, or Long-tailed tree mouse",,,,,2.4,,,,,57.0,,3.1,captivity,small,acceptable,,,
+2263,2279,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,borealis,Sei whale,3652.0,3652.0,345.0,266.0,1.0,0.5,730.0,680000.0,,20000000.0,,74.0,wild,medium,acceptable,,,
+2786,2806,Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,coronatus,Crowned lemur,608.0,,126.0,,1.24,1.0,,70.0,,1645.0,,27.0,captivity,medium,acceptable,,,
+2057,2072,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,aureus,Golden jackal,334.0,334.0,63.0,75.0,3.0,1.0,365.0,207.5,,11000.0,,18.8,captivity,medium,acceptable,,,311.95
+2713,2733,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Colobus,polykomos,King colobus,1642.0,730.0,185.0,270.0,1.0,0.6,442.0,708.5,1240.0,9525.0,,33.9,captivity,small,acceptable,,,
+2319,2337,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Anoura,geoffroyi,Geoffroy's tailless bat,,,120.0,,1.0,1.0,,5.1,,15.2,,10.0,captivity,small,acceptable,,,
+3012,3032,Animalia,Chordata,Mammalia,Rodentia,Muridae,Dipodillus,campestris,North African gerbil,,,,,4.3,,,,,28.4,,7.3,captivity,medium,acceptable,,,
+1940,1954,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Hippotragus,niger,Sable antelope,768.0,1184.0,271.0,213.0,1.0,1.0,365.0,16375.0,,225000.0,,22.2,captivity,large,high,,,
+1880,1894,Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Tenrec,ecaudatus,"Tailess tenrec, or Tenrec",182.0,,58.0,27.0,18.0,1.5,,21.0,225.0,900.0,0.0445,8.7,captivity,small,acceptable,0.729,650.0,306.15
+2787,2807,Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,fulvus,Brown lemur,509.0,633.0,118.0,,1.1,2.0,548.0,73.0,,2485.0,,35.5,captivity,medium,acceptable,4.239,2374.1,309.65
+2061,2076,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,mesomelas,Black-backed jackal,309.0,251.0,60.0,60.0,4.0,1.0,274.0,159.0,,10250.0,0.0149,16.7,captivity,medium,acceptable,21.533,7720.0,311.15
+2040,2055,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Phacochoerus,africanus,Wart hog,578.0,578.0,164.0,84.0,3.0,1.5,426.0,660.0,,100000.0,,30.0,captivity,large,acceptable,,,
+2807,2827,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Chiropotes,satanas,Brown-bearded saki,1460.0,,160.0,,1.0,,,,,2942.5,,19.6,captivity,tiny,acceptable,,,
+2065,2080,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,culpaeus,Culpeo,365.0,,61.0,61.0,4.0,1.0,365.0,168.0,,13000.0,,13.1,captivity,small,acceptable,,,
+3083,3103,Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Mystromys,albicaudatus,White-tailed mouse,109.0,,38.0,32.0,3.0,,36.0,6.5,40.0,106.0,,6.3,captivity,small,acceptable,0.707,93.8,306.15
+3193,3213,Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura,flavescens,Greater red musk shrew,,,25.0,,3.3,,,2.26,20.7,45.0,,2.2,captivity,small,acceptable,0.248,33.2,
+1954,1968,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Neotragus,moschatus,Suni,183.0,183.0,180.0,,1.0,,,,,6500.0,,13.5,captivity,small,acceptable,,,
+2500,2518,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Dendrolagus,ursinus,Black tree kangaroo,,,,,1.0,,,,,8000.0,,20.0,captivity,small,acceptable,,,
