@@ -1,19 +1,34 @@
-# Mammalian Longevity - Allometric scaling and Residual Analysis.
+# Mammalian Longevity - Allometric scaling and Residual analysis.
 *Using allometric scaling to predict maximum longevity of mammalian species, then analysing their residuals in order to ascertain biological traits that contribute to unexpected lifespans.*
 
 ---
 
 ## Table of Contents
 
+[1. Project Overview](#1-project-overview)
 
+[2. Data](#2-data)
+
+[3. Repository Structure](#3-repository-structure)
+
+[4. Workflow](#4-workflow)
+
+[5. Analysis and Metrics](#5-analysis-and-metrics-)
+
+[6. Key Findings](#6-key-findings)
+
+[7. Limitations & Future Enhancements](#7-limitations-and-future-enhancements)
+
+[8. Requirements](#8-requirements)
 
 
 ---
 
 ## 1. Project Overview
 
-The allometric  equation, Y = aMᵇ is often used to describe the relationship between maximum longevity of mammals, and their size. But, certain mammals live unexpectedly longer or shorter lives than their size predicts. This project used the  HAGR AnAge Dataset to build a Huber Regressor that predicts maximum longevity of mammals from their adult weight. The calculated residuals from a subset of the dataset were then used as the target variable for a Random Forest Regressor, in order to analyse the predictive power of 10 biological features. The analysis found traits associated with parental investment, namely birth weight and gestation length, to be the strongest predictors of such deviation.
+The allometric  equation, Y = aMᵇ is often used to describe the relationship between maximum longevity of mammals, and their size. But, certain mammals live unexpectedly longer or shorter lives than their size predicts.
 
+ This project used the HAGR AnAge Dataset, to first build a Huber Regressor that predicts maximum longevity of mammals from their adult weight. The calculated residuals from a subset of the dataset, were then used as the target variable for a Random Forest Regressor, in order to analyse the predictive power of 10 biological features. Finally, predictions from model 2 for its 59 species test set, were combined with the corresponding predictions from model 1, in order to evaluate the performance of a combined Two-stage model in predicting Maximum longevity. The results of the analysis suggest that features related to parental investment, specifically birth weight and gestation length, are relevant to predicting maximum longevity of mammals in this dataset. The Two - stage model achieved an R² score of 0.73.
 ---
 
 ## 2. Data
@@ -27,7 +42,11 @@ The dataset for this project has been obtained from The Animal Ageing and Longev
 
 ## 3. Repository Structure
 
+```
+mammalian-longevity-residual-analysis/
+| data/
 
+```
 ---
 
 
@@ -86,9 +105,9 @@ The dataset for this project has been obtained from The Animal Ageing and Longev
 
     Analysed final model 2 metrics and permutation importance results.
 
-### Combined Two - Stage Model:
- 
-- This step has been performed at the end of the project in order to evaluate the performance of both models together, on the same subset.
+### Two - Stage Model:
+
+- The 59 species test set of Model 2 was used for this stage.
 
 - Using the formula, 
 
@@ -96,7 +115,7 @@ The dataset for this project has been obtained from The Animal Ageing and Longev
 residual = true value - predicted value
 
 ```
-True values were compared to the sum of the model 1 predictions and model 2 residuals.
+Actual Maximum longevity values were compared to the combined predictions obtained by summing up each species' Model 1 predicted longevity value and its corresponding Model 2 predicted residual.
 
 ## 5. Analysis and Metrics :
 
@@ -115,7 +134,7 @@ An error factor of 1.2 would mean predictions typically lie within a factor of 1
 
 ```
 
-* Permutation importance was also analysed at the end of model 2. This measures how important a feature was for the Random Forest Regressor to make its predictions. In Model 2, a higher mean importance value indicates a higher R² score drop, when that feature was shuffled.
+* Permutation importance was also analysed at the end of model 2. This measures how important a feature was for the Random Forest Regressor to make its predictions. In Model 2, a higher mean importance value for a feature indicates a higher R² drop occurred, when that feature was shuffled.
 
 
 ---
@@ -150,13 +169,19 @@ i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
  - Test set MAE: 0.128
  - Error factor : 1.34 
 
-   This means that for the subset of model 1 that was tested, model 2 was able to account for nearly 45% of the remaining variation in Maximum longevity. 
+   This indicates that for the subset of model 1 that was tested, model 2 was able to account for nearly 45% of the remaining variation in Maximum longevity. 
 
  * Permutation importance results identified Gestation length with a mean importance score of 0.15 ± 0.08, and Birth weight with a score of 0.08 ± 0.02, to be the features with the largest mean reductions in test set R², when shuffled. Other features' mean importance values are indistinguishable from 0.
 
  * Gestation length and Birth weight are traits related to parental investment. This suggests that parental - investment related traits may be relevant to predicting maximum longevity of mammals in this dataset. Though, due to the limited scope of this subset, this finding should not be generalised.
 
+### Two-stage Model :
 
+ - R² score: 0.733
+ - MAE: 0.128
+ - Error factor : 1.34
+
+   The Two-stage model predictions were able to account for 73% of variation in Maximum longevity values of the 59 mammalian species test set. This indicates reasonably strong predictive performance.
 
 
 ---
@@ -164,7 +189,34 @@ i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
 
 ## 7. Limitations and Future Enhancements
 
+### Limitations:
+
+  1. Dataset is limited and does not include all mammalian species. 
+
+  2. Model 2 was trained on a subset of the first model's dataset, instead of the full set, due to important feature columns having large amounts of missing values.
+
+  3. Imputation using values of related taxonomic categories, reduces natural variation found amongst species.
+
+### Future Enhancements:
+
+  1. Instead of Mass-specific BMR, Residual BMR can be used to further remove distorting effects of Body mass on Metabolic rate, for more accurate comparison.
+
+  2. Effects of Inter-feature correlation on permutation importance can be evaluated by dropping correlated features, feature engineering etc.
+
 ---
 
-
 ## 8. Requirements
+
+- Python 3.14+
+- JupyterLab
+
+- Packages:
+
+| Package | Use |
+| --- | --- |
+| pandas | Dataset viewing and manipulation |
+| numpy | Numerical operations |
+| scikit-learn | Models, pipeline, metrics |
+| matplotlib | Plotting |
+| seaborn | Plotting |
+| joblib | Saving and loading pipeline, gridsearch |
