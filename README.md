@@ -1,9 +1,12 @@
 # Mammalian Longevity - Allometric scaling and Residual analysis.
 *Using allometric scaling to predict maximum longevity of mammalian species, then analysing their residuals in order to ascertain biological traits that contribute to unexpected lifespans.*
 
+
+
+
 ![Residuals plot from Model 1 test set, highlighting 4 orders with unexpected lifespans](figures/model1_residual_plot.png)
 
-*This plot highlights 4 key Orders that form the basis of this project. Points lying above the dashed line represent organisms with lifespans that are longer than what their size predicts, and those that fall below the line have a shorter than predicted lifespan.*
+*Points lying above the dashed line represent species living longer than their size predicts; those below live shorter. Four key orders are highlighted for illustrative purposes.*
 
 
 ---
