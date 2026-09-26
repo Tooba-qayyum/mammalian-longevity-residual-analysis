@@ -115,7 +115,7 @@ An error factor of 1.2 would mean predictions typically lie within a factor of 1
 
 ```
 
-* Permutation feature importance was also analysed at the end of model 2. This measures how important a feature was for the Random Forest Regressor to make its predictions. In Model 2, a higher mean importance value indicates a higher R² score drop, when that feature was shuffled.
+* Permutation importance was also analysed at the end of model 2. This measures how important a feature was for the Random Forest Regressor to make its predictions. In Model 2, a higher mean importance value indicates a higher R² score drop, when that feature was shuffled.
 
 
 ---
@@ -128,9 +128,9 @@ An error factor of 1.2 would mean predictions typically lie within a factor of 1
 - Test set MAE: 0.183
 - Error factor: 1.52
 
-This suggests that Adult weight of mammals explains around 57% of variation found in their Maximum longevity. Model 2 investigates how much of the remaining variance can be explained by a set of 10 biological traits.
+  This suggests that Adult weight of mammals explains around 57% of variation found in their Maximum longevity. Model 2 investigates how much of the remaining variance can be explained by a set of 10 biological traits.
 
-Furthermore, the regression line obtained by the model, obtained a similar equation to the mammalian allometric equation used by HAGR for the AnAge database.  
+* Furthermore, the regression line obtained by the model, obtained a similar equation to the mammalian allometric equation used by HAGR for the AnAge database.  
 
 ```
 Model 1 regression line :
@@ -146,7 +146,17 @@ i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
 
 ### Model 2:
  
- - 
+ - Test set R² Score : 0.445
+ - Test set MAE: 0.128
+ - Error factor : 1.34 
+
+   This means that for the subset of model 1 that was tested, model 2 was able to account for nearly 45% of the remaining variation in Maximum longevity. 
+
+ * Permutation importance results identified Gestation length with a mean importance score of 0.15 ± 0.08, and Birth weight with a score of 0.08 ± 0.02, to be the features with the largest mean reductions in test set R², when shuffled. Other features' mean importance values are indistinguishable from 0.
+
+ * Gestation length and Birth weight are traits related to parental investment. This suggests that parental - investment related traits may be relevant to predicting maximum longevity of mammals in this dataset. Though, due to the limited scope of this subset, this finding should not be generalised.
+
+
 
 
 ---
