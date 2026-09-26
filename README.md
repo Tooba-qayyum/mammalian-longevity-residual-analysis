@@ -28,7 +28,9 @@
 
 The allometric  equation, Y = aMᵇ is often used to describe the relationship between maximum longevity of mammals, and their size. But, certain mammals live unexpectedly longer or shorter lives than their size predicts.
 
- This project used the HAGR AnAge Dataset, to first build a Huber Regressor that predicts maximum longevity of mammals from their adult weight. The calculated residuals from a subset of the dataset, were then used as the target variable for a Random Forest Regressor, in order to analyse the predictive power of 10 biological features. Finally, predictions from model 2 for its 59 species test set, were combined with the corresponding predictions from model 1, in order to evaluate the performance of a combined Two-stage model in predicting Maximum longevity. The results of the analysis suggest that features related to parental investment, specifically birth weight and gestation length, are relevant to predicting maximum longevity of mammals in this dataset. The Two - stage model achieved an R² score of 0.73.
+This project used the HAGR AnAge Dataset, to first build a Huber Regressor that predicts maximum longevity of mammals from their adult weight. The calculated residuals from a subset of the dataset, were then used as the target variable for a Random Forest Regressor, in order to analyse the predictive power of 10 biological features. Finally, predictions from model 2 for its 59 species test set, were combined with the corresponding predictions from model 1, in order to evaluate the performance of a combined Two-stage model in predicting Maximum longevity. The results of the analysis suggest that features related to parental investment, specifically birth weight and gestation length, are relevant to predicting maximum longevity of mammals in this dataset. The Two - stage model achieved an R² score of 0.73.
+
+ 
 ---
 
 ## 2. Data
