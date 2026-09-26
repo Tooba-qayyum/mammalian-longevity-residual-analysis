@@ -113,18 +113,20 @@ mammalian-longevity-residual-analysis/
 
     Data was Train-Test split, stratified by 'Order'. Train and test data was then log- transformed to obtain the linear relationship between X and y required to build the model.
 
-    | Feature (X) |
-    | --- |
-    | Adult weight (g) |
 
-    | Target (y) |
-    | --- |
-    | Maximum longevity (yrs) |
+    | Feature (X) | Target (y) |
+    | --- | --- |
+    | Adult weight (g) | Maximum longevity (yrs) |
 
+    
 
 3. **Building the Pipeline :**
 
-    Pipeline built to scale and fit the Huber Regressor to the data.
+    Pipeline built to scale and fit the Huber Regressor to the train set.
+
+4. **Cross - Validation :**
+   
+   10 fold Cross Validation (shuffled) was performed on train set to assess performance across folds.
 
 4. **Residual Calculation and Model Evaluation:**
 
@@ -155,9 +157,7 @@ mammalian-longevity-residual-analysis/
     | Birth weight (g) |
     | Gestation/Incubation (days) |
 
-    | Target (y2) |
-    | --- |
-    | residual |
+    **Target :** residual
     
 
 3. **Imputation :**
@@ -174,7 +174,7 @@ mammalian-longevity-residual-analysis/
 
 5. **Grid Search CV :**
 
-    Performed GridSearch CV to tune the model to the best parameters.
+    Performed GridSearchCV using RepeatedKFold cross validation (10 folds, 3 repeats) to tune the model to the best parameters.  The fold - level results were also used to check for variation in performance across folds.
 
 6. **Model Evaluation and Feature Analysis :**
 
