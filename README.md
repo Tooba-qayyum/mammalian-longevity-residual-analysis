@@ -1,5 +1,5 @@
 # Mammalian Longevity - Allometric scaling and Residual analysis.
-*Using allometric scaling to predict maximum longevity of a set of mammalian species, followed by residual analysis in order to ascertain biological traits associated with unexpected lifespans.*
+*Using allometric scaling to predict maximum longevity of a set of mammalian species, followed by residual analysis, in order to ascertain biological traits associated with unexpected lifespans.*
 
 
 
