@@ -128,9 +128,9 @@ mammalian-longevity-residual-analysis/
    
    10 fold Cross Validation (shuffled) was performed on train set to assess performance across folds.
 
-4. **Residual Calculation and Model Evaluation:**
+4. **Model Evaluation and residual calculation:**
 
-    Residuals and Evaluation metrics were calculated. Train and test set residuals were appended to train and test dataset, respectively.
+    Evaluation metrics for test set predictions were calculated. Train and test set residuals were calculated and appended to train and test datasets, respectively.
 
 ### Model 2:
 
@@ -178,7 +178,7 @@ mammalian-longevity-residual-analysis/
 
 6. **Model Evaluation and Feature Analysis :**
 
-    Analysed final model 2 metrics and permutation importance results.
+    Analysed final test set metrics and permutation importance results.
 
 ### Two - Stage Model:
 
