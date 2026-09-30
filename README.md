@@ -1,5 +1,5 @@
 # Mammalian Longevity - Allometric scaling and Residual analysis.
-*Using allometric scaling to predict maximum longevity of mammalian species, then analysing their residuals in order to ascertain biological traits that contribute to unexpected lifespans.*
+*Using allometric scaling to predict maximum longevity of a set of mammalian species, followed by residual analysis in order to ascertain biological traits associated with unexpected lifespans.*
 
 
 
@@ -34,9 +34,9 @@
 
 ## 1. Project Overview
 
-The allometric  equation, Y = aMᵇ is often used to describe the relationship between maximum longevity of mammals, and their size. But, certain mammals live unexpectedly longer or shorter lives than their size predicts.
+The allometric  equation, Y = aMᵇ is often used to describe the relationship between maximum longevity of mammals and their size. But, certain mammals are found to defy these norms and live unexpectedly longer or shorter lives than what their size predicts.
 
-This project used the HAGR AnAge Dataset, to first build a Huber Regressor that predicts maximum longevity of mammals from their adult weight. The calculated residuals from a subset of the dataset, were then used as the target variable for a Random Forest Regressor, in order to analyse the predictive power of 10 biological features. Finally, predictions from model 2 for its 59 species test set, were combined with the corresponding predictions from model 1, in order to evaluate the performance of a combined Two-stage model in predicting Maximum longevity. The results of the analysis suggest that features related to parental investment, specifically birth weight and gestation length, are relevant to predicting maximum longevity of mammals in this dataset. The Two - stage model achieved an R² score of 0.73.
+This project used the HAGR AnAge Dataset, to first build a Huber Regressor that predicts maximum longevity of mammals from their adult weight. The calculated residuals from a subset of this dataset, were then used as the target variable for a Random Forest Regressor, in order to analyse the predictive power of 10 biological features. Finally, predictions from model 2 for its 59 species test set, were combined with the corresponding predictions from model 1, in order to evaluate the performance of a combined Two-stage model in predicting maximum longevity. The results of the analysis suggest that features related to parental investment, specifically birth weight and gestation length, are relevant to predicting maximum longevity of mammals in this dataset. The Two - stage model achieved an R² score of 0.73.
 
  
 ---
@@ -111,7 +111,7 @@ mammalian-longevity-residual-analysis/
 
 2. **Splitting and Log - Transformation:**
 
-    Data was Train-Test split, stratified by 'Order'. Train and test data was then log- transformed to obtain the linear relationship between X and y required to build the model.
+    Data was Train-Test split, stratified by 'Order'. Train and test data was then log-transformed to obtain the linear relationship between X and y required to build the model.
 
 
     | Feature (X) | Target (y) |
@@ -122,7 +122,7 @@ mammalian-longevity-residual-analysis/
 
 3. **Building the Pipeline :**
 
-    Pipeline built to scale and fit the Huber Regressor to the train set.
+    Pipeline built to scale the train set and fit the Huber Regressor on it.
 
 4. **Cross - Validation :**
    
@@ -130,7 +130,7 @@ mammalian-longevity-residual-analysis/
 
 4. **Residual Calculation and Model Evaluation:**
 
-    Residuals and Evaluation metrics calculated. Train and test set residuals appended to train and test datasets.
+    Residuals and Evaluation metrics were calculated. Train and test set residuals were appended to train and test dataset, respectively.
 
 ### Model 2:
 
@@ -170,11 +170,11 @@ mammalian-longevity-residual-analysis/
 
 4. **Building a Pipeline :**
 
-    Pipeline built to impute missing values then fit the Random Forest Regressor to the data.
+    Pipeline built to impute missing values of train set then fit the Random Forest Regressor to the data. 
 
 5. **Grid Search CV :**
 
-    Performed GridSearchCV using RepeatedKFold cross validation (10 folds, 3 repeats) to tune the model to the best parameters.  The fold - level results were also used to check for variation in performance across folds.
+    Performed GridSearchCV using RepeatedKFold cross validation (10 folds, 3 repeats) to tune the model to the best parameters. The fold - level results were also used to check for variation in performance across folds.
 
 6. **Model Evaluation and Feature Analysis :**
 
@@ -209,7 +209,7 @@ An error factor of 1.2 would mean predictions typically lie within a factor of 1
 
 ```
 
-* Permutation importance was also analysed at the end of model 2. This measures how important a feature was for the Random Forest Regressor to make its predictions. In Model 2, a higher mean importance value for a feature indicates a higher R² drop occurred, when that feature was shuffled.
+* Permutation importance was also analysed at the end of model 2. This measures how important a feature was for the Random Forest Regressor to make its predictions. In Model 2, a higher mean importance value for a feature indicates that a higher R² drop occurred, when that feature was shuffled.
 
 
 ---
@@ -222,12 +222,12 @@ An error factor of 1.2 would mean predictions typically lie within a factor of 1
 - Test set MAE: 0.183
 - Error factor: 1.52
 
-  This suggests that Adult weight of mammals explains around 57% of variation found in their Maximum longevity. Model 2 investigates how much of the remaining variance can be explained by a set of 10 biological traits.
+  Adult weight values account for nearly 57% of variation found in Maximum longevity of mammals in this dataset. Model 2 investigates how much of the remaining variance can be explained by a set of 10 biological traits.
 
-* Furthermore, the regression line obtained by the model, obtained a similar equation to the mammalian allometric equation used by HAGR for the AnAge database.  
+* Furthermore, the regression line obtained by the model, has a similar equation to the mammalian allometric equation used by HAGR for the AnAge database.  
 
 ```
-Model 1 regression line :
+Model 1 regression line equation:
 
 log₁₀(longevity) = 0.661 + 0.159 × log₁₀(adult weight)
 
@@ -264,7 +264,7 @@ i.e, log₁₀(tmax) = 0.688 + 0.153*log₁₀(M)
  - MAE: 0.128
  - Error factor : 1.34
 
-   The Two-stage model predictions were able to account for 73% of variation in Maximum longevity values of the 59 mammalian species test set. This indicates reasonably strong predictive performance.
+   The Two-stage model predictions were able to account for 73% of variation in Maximum longevity values of the 59 mammalian species in the test set. This indicates reasonably strong predictive performance.
    
 ![Two-stage model predicted vs actual longevity - scatter plot](figures/two_stage_model_predictions_plt.png)
 
